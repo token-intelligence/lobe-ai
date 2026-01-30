@@ -1,0 +1,1358 @@
+Studio (00:01.519)
+Welcome to episode one of the Token Intelligence podcast. This is actually our third attempt at recording the first episode. Yes. So that means it's going to be three times as good, right? We are happy to be here. It's been a journey of audio visual testing and tweaking that we wanted it to be great on the first round. Okay.
+
+Welcome to episode one of the Token Intelligence podcast. This is actually our third attempt at recording the first episode. 1.3. Episode 1.3. So that means it's going to be three times as good, right? Yep. So we're just happy to be here at this We are happy to be here.
+
+In-person participant 1 (00:26.707)
+Yep. Okay. Fun show planned today. We are going to talk about a college commencement speech that's 80 years old, which references a Tolstoy book. Yes. So we're going way back in history. Then we're going to fast forward and try to figure out how some of the principles in the commencement speech apply to AI and FOMO.
+
+Fun show planned today. We are going to talk about a college commencement speech that's 80 years old, which references a Tolstoy book. So we're going way back in history. Then we're going to fast forward and try to figure out how some of the principles in the commencement speech apply to AI and FOMO today. So back to the future.
+
+It's gonna be fun.
+
+And then don't forget to kick it off, we've got a little startup site. yes. What are we gonna call it? I don't know. We'll come up with a cool name for it. Yeah, yeah. Yes, we're gonna invent a startup. Yes. And we're gonna talk about mental models and then we're gonna do tool time and talk about zo.computer. Yeah, it's gonna be great. All right, so let's dig in. Before we get to the commencement speech and delve into history, you wanted to...
+
+yes. Yeah. Yeah. Yes. We have a, we're going to invent a startup and we're going to talk about mental models and then we're going to do tool time and talk about zo.computer, which will be fun. All right. So let's dig in. before we get to the commencement speech, and delve into history, you wanted to, he wanted to try and invent an AI startup, you know, live.
+
+In-person participant 1 (01:30.43)
+You wanted to try an event, an AI startup, you know, live. And so you have a question for me and I'm going, I guess, what is this game? I'm going to try to create a startup based on a prompt from you. Yeah. So I think we're going to do it a couple of different ways. Pun intended. Yes. So this version of it, we're going to do a prompt. I think in subsequent episodes we may go through and
+
+And so you have a question for me and I'm going, I guess, what is this game? I'm gonna try to create a startup based on a prompt from you. Yeah, so I think we're gonna do it a couple of different ways. Pun intended.
+
+In-person participant 1 (01:59.348)
+just like keep going with it until it dies and then we'll have an episode where we declare it dead and then we'll start a new one. I think that would be fun. And some of them we'll just have to end earlier than others. Right, we're gonna crash later. This is great, we're just being vulnerable in front of our audience. I also love that I'm the one who's the chosen. Yeah, yeah. That was why I came up with the idea first. I'm trippy.
+
+Okay. Great. Okay.
+
+Right, we're gonna crash land. This is great, we're just being vulnerable in front of our audience here. All right, I also love that I'm the one who's the chosen. I'm tribute. I'm tribute. Okay, I can invent a startup.
+
+Awesome. Okay. So, and we have to have fun constraints. You can't just have like, you know, okay. So constraint number one is AI startup. Not much of a constraint. Two is, Yeah. Two is it has to be a screenless device. So you can't just make a
+
+And we have to have fun constraints. You can just have fun. Yeah. Sure. Sure. Okay. So constraint number one is AI startup. I mean. much of a constraint. Two is. Not much of a constraint. Well, I mean, that depends, but okay. Yeah.
+
+Studio (02:55.405)
+list device.
+
+an app. It has to be screenless. I'm not going to say it has to be hardware, but I don't know how to do it any other way. Okay. All I like that. Okay. Screenless. And three is we're going to start from the name. So you're going to name the startup and then we're going to, then you're going to back into the screenless thing. Probably a device. All right. Are you ready? Are you ready for this? What does a cap table look like?
+
+Hardware. Hardware. Okay. I like that. screen list. Then three is we're going to start from the name. So you're going name the startup and then we're going to then you're going to back into the screen list thing.
+
+Okay. Ready? Wait, what's the cap table look like before we get going here? Because if this actually is a breakout success.
+
+Because this actually is a big success. Yeah, good point. We should open up a Google Sheet and spend hours on that before we even name it. We'll see how good the idea is. Am I majority owner? Yeah, for sure. mean, whoever names it, right?
+
+Studio (03:37.056)
+It's been hours on that before we even named Before we named the startup. Okay. We'll see how good the idea is, but am I majority owner? That's what I'm trying to figure out here. Yeah. Okay. I mean, whoever names it, right? Whoever names it. Okay. a screenless, a screenless AI startup, screenless device. So there are...
+
+a screenless, AI startup screenless device. So there are, I'm just gonna, this is stream of consciousness startup creation. Okay, ready? There are a limited number of ways to interact with a device like that. True. So one is auditory.
+
+I'm just gonna, this is stream of consciousness, startup creation. There are a limited number of ways to interact with a device like that. So one is auditory. So there's a speaker and it either, you know, it either emits sound or you are speaking to it or both.
+
+So there's a speaker and it either emits sound or you are speaking to it or both. And then the other category I would say is, well two other categories come to mind.
+
+It could be and then the other category I would say is well two other categories come to mind. Okay Just off the cuff one is some sort of sensor Right. So, know, there's like gyroscopic sensors mean the iPhone has a lot of crazy stuff like this, right? speed motion whatever and then the last one would be that you know, it's
+
+In-person participant 1 (04:40.423)
+Just off the cuff. One is some sort of sensor. OK. Yeah. there's gyroscopic sensors. Meaning iPhone has a lot of crazy stuff like this, right? True. Speed, motion, whatever. And then the last one would be that it performs some sort of function.
+
+is some sort of, it performs some sort of function, which is kind of sensor-esque, but I'm just thinking about like the TheraGun, you muscle relaxer. Is there an AI play, you know, based on that? Those are the categories that I'm thinking of. Am I missing anything?
+
+which is kind of sensor-esque, but I'm just thinking about like the Theragun, you know, muscle relaxers, AI, you know, based on... I mean, maybe. Those are the categories that I'm thinking of. Am I missing anything? I'm gonna have to be careful drinking coffee during this portion of the show so I don't spew it all over the electronic equipment. But yeah, I don't think you're missing anything major. I think that there's kind of, there's the IOT, there's like the IOT play, right? Or video input.
+
+Right. Those are my options.
+
+In-person participant 1 (05:35.804)
+or audio. think you could still call it screenless and have a video input technically. yeah. Okay. Or you could go with, you know, some kind of, yeah. So it's a startup. That's what startups are for. You're not, you're not just going to build a wrapper around chat GPT.
+
+That's true, but I feel like that's a little bit cheating.
+
+I want this to be different. I want a hard problem because if you know, it's a start-up, it's exactly right. So I'm not just going to build a wrapper, which we should talk about on, you know, at some point the data around GPT-4 wrappers, lots of them. I'm going auditory because I feel like the applications for that are pretty wide.
+
+I'm going auditory because I feel like the applications for that are pretty wide. Audio input as part of it. just going audio. We'll get there. But I need to name it first, right?
+
+And I'm just going audio. We can, we'll get there. We'll get there. But I need to name it first, right? Is that the thing?
+
+In-person participant 1 (06:28.435)
+Okay.
+
+Okay.
+
+Studio (06:32.615)
+Let's call it lobe, which is, okay, I think there are two things here that I really like. One is that it's a somewhat ambiguous term. know, lobe.ai. What does that mean? I don't know, but you also have an earlobe, which is a nod towards the auditory nature.
+
+Let's call it lobe. Which is, okay, think there are two things here that I really like. One is that it's a somewhat ambiguous term. You know, lobe.ai. What does that mean? I don't know. But you also have an earlobe. Which is a nod towards.
+
+the auditory nature. So I have an AI startup called Lobe. Okay. Lobe. That's a screenless device that's focused on auditory. Checking if lobe.ai is available, but continue. Yeah. Okay. Okay. Well, what's next though? So I named it. You named it. and you knew the constraints. So yeah, what does it do? What, does it do or, or who is it for? Probably ideally both.
+
+So I have an AI startup called Lobe that has a screenless device that's focused on auditory.
+
+Okay, perfect. okay. Okay, well what's next though? So I named it.
+
+Studio (07:22.897)
+What does it do?
+
+It's a consumer product so we can start with an ICP and you know we'll start with an ICP because you obviously want to be very focused on a specific use case when you go to market. But it's a consumer product so it'll be you know it'll be very widely applicable.
+
+It's a consumer product, so we can start with an ICP. And we'll start with an ICP because you obviously want to be very focused on the specific case case when you go But it's a consumer product, so it'll be very widely applicable.
+
+It is going to focus on...
+
+It is going to focus on...
+
+Studio (07:58.622)
+So it's a listening device. So it is a passive listening device. This is hard, by the way. I can't wait to do this to you. It's a passive listening device.
+
+So it's a listening device. So it is a passive listening device. Passive listening device. It's a passive listening device. So an active listening device would be, and we might look at one of these actually later on the show, but something that's always listening. And passive, you mean there's like an activation word, or it only listens at certain points? No, active is.
+
+No, I'm thinking active is more along the lines of an Alexa or a Google Home.
+
+okay. because it's always listening for the like for a keyword or whatever.
+
+Well, you, you, you, it's Siri, right? You say, Hey Siri, and it, that's what I mean. Maybe that's not the right terminology. Okay. This is passive. You don't actually initiate it's listening.
+
+In-person participant 1 (08:38.707)
+It's Siri, right? You say, Siri. Yeah, yeah. That's what I mean. Maybe that's not the right terminology. I don't This is passive. You don't actually initiate its listening. OK. Which I think will make adoption a lot easier. Gotcha. And the main utility for this is
+
+which I think will make adoption a lot easier. Gotcha. And the main utility for this is passive listening while you're sleeping.
+
+passive listening while you're sleeping. Okay. I'm ready. I'm ready. You have all these, you know, you have the market for the market for listening during the day is saturated. It's completely, mean, have granola, know, notion AI notes, right. All of these things. saturated. Nope. Right. So we want to go after a market where, um, you know, there's a lot of
+
+Right, because you have all these, you know, the market for listening during the day is, it's so saturated. I mean, you have Granola, know, Notion AI notes, all of these things, so saturated. Right, so we want to go after a market where, you know, there's a lot of green field opportunity for passive listening screenless devices.
+
+Greenfield opportunity for listening to wireless devices. And so we have a very defined ICP. That's the Sleep Talkers, Wow, okay, you're joking. This is my startup. Sorry. This is my startup, but yes, yes. did you ever use that iPhone app called Sleep Score? No. Sleep.
+
+Studio (09:44.98)
+Wow, okay, you're joking. This is my startup. This is my startup, but yes, yes. the, did you ever use that iPhone app called Sleep Score? No. Sleep, Sleep Score, Sleep, I can't remember. It was an iPhone app.
+
+Sleep score sleep. I can't remember. It wasn't like a link to some kind of device or just an app. So you you know you Would turn this thing on okay, and It kind of is the similar concept. Okay, where it would actually record audio Really no
+
+No, so you would turn this thing on, and it kind of is this similar concept, where it would actually record audio.
+
+Did you not use this? It's really interesting. Okay. you like sleep with it? I think it's called sleep score. No, you just like set it next to your bed, which, you know, I don't know the veracity of this. You how, how close is it? don't know about the science or the clinical studies? Exactly. But it would record some, you know, it would, yeah, part of it at least was recording audio and you could just, you know, you know, and it would give you, you know, your quality of sleep and you know, were you snoring and you know, all those sorts of things.
+
+Do you like sleep with it under your pillow or something? No, you just like set it next to your bed. All right. You know, I don't know the veracity of this. don't know about the science or the clinical studies. Exactly. All right. But it would record some, you know, it would, part of it at least was recording audio and you could just, right, you know, you know, and it would give you, know, your quality of sleep and you know, where are you soaring and you know, those sorts of things. Yeah. Okay. So this is a new,
+
+Studio (10:56.071)
+Okay, so this is a new AI screenless device, you know, riff on that. Because I think the app was fairly popular. I think a number of people used it. My dad used it. You know, and he wanted to compare sleep scores for a while. Okay, but this goes a step further. So, of course you can connect this to your, you know, fitness and sort of, you know, fitness devices, right?
+
+AI screenless device, know, riff on that. Because I think the app was fairly popular. I think a number of people used it. My dad used it. You know, he wanted to compare sleep scores for a while. Sure. Okay, but this goes a step further. So, of course you can connect this to your, you know, fitness and sort of...
+
+fitness devices. Yeah, a Fitbit or a Ring. Right, all your biometric trackers. Or a Ring, Fitbit. Apple Watch, whatever. Yes, I use a Garmin, whatever. Okay. So it has direct integrations with all of this. Or it will after we receive Right. Yeah, right. you can connect it with that. So it is consuming your biometric data as you sleep, but the big thing is the auditory component where...
+
+Right, all your biometric trackers, right? Or a ring, Fitbit. Yes, I use a Garmin, whatever, okay. So it has direct integrations with all of those. Or it will after we raise our Our seed round. So you can connect it with that. So it is consuming your biometric data as you sleep, but the big thing is the auditory component where when you, and this is actually a key to the integration with your biometric tracking.
+
+when you, and this is actually a key to the integration with your biometric tracking, is that when you enter REM sleep, that's when it starts recording, because that's generally when you dream. Okay. Okay.
+
+Studio (11:56.4)
+is that when you enter REM sleep, that's when it starts recording, because that's generally when you dream. And that's usually the most restorative sleep, right? If you sleep for eight hours and you get 10 minutes of REM sleep, it's not as high quality sleep, right? And you usually dream during REM sleep. So we're going after the sleep that matters the most, which is REM sleep. And that's usually when you dream. And a lot of people sleep talk when they dream.
+
+And that's usually the most restorative sleep. If you sleep for eight hours and you get 10 minutes of REM sleep, it's not as high quality sleep. And you usually dream during REM sleep. So we're going after the sleep that matters the most, which is REM sleep. And that's usually when you dream. And a lot of people sleep talk when they dream. So I'm just going to live pitch this to you really quick. I'm ready. Load.
+
+I'm just going to live pitch this to you really quick. Lobe. So have you ever, you you wake up and you sort of have that dream residue and you, know, maybe you're getting breakfast ready or you're making coffee and you tell your wife like, I had the craziest dream and you try to explain to her what you dreamed about. And it's really hard.
+
+So have you ever, you wake up and you sort of have that dream residue and you, maybe you're getting breakfast ready or you're making coffee and you tell your wife, I had the craziest dream and you try to explain to her what you dreamed about. And it's really hard.
+
+Because dreams are weird, they make sense in your head. Even after you wake up, you feel like you have it there and then you try to explain it and it's very fragmented, right?
+
+In-person participant 1 (12:54.877)
+Cause dreams are weird. They make sense in your head. Even if you wake up, feel like you have it there. And then you try to explain it and it's very fragmented. Well, there's also a rapid decay factor here where if you tried to explain it five minutes after 20 minutes after two hours after, there's a what, at some point where like it's pretty much impossible. I think that totally, totally. So lobe solves that problem. Okay.
+
+Rapid decay.
+
+Studio (13:12.371)
+Totally.
+
+Studio (13:16.923)
+Right. Totally, totally. So, Loeb solves that problem for you.
+
+Problem I didn't know I had yes. Yeah. Yes. Well, I like every good startup Did people ask Steve Jobs for an iPhone no, no, okay, so So you wake up you have that dream residue you immediately start telling lobe
+
+Yes. Well, I mean, that's innovation. That's actually really, that's real innovation, right? Did, did people ask Steve jobs for an iPhone? They didn't. Okay. So, so you wake up, you have that dream residue. You immediately start telling lobe about your dream, what you remember of it. Okay.
+
+What you remember of it, okay? And it takes both the passive recording and the biometric data and it completes your dream for you. So you have, it tells you what your dream was. So it's taking the fragmented stream of consciousness that you're trying to give it right when it's fresh and then combining it with the other data to tell you what your actual dream was.
+
+And it takes both the passive recording and the biometric data and it completes your dream for you. So you have, it tells you what your dream was. So it's taking the fragmented stream of consciousness that you're trying to give it right when it's fresh and then combining it with the other data to tell you what your actual dream was. And so that's what Loeb does.
+
+In-person participant 1 (14:19.699)
+And so that's what Loeb does. So when you go for that cup of coffee, you can give your wife a very articulate account of what you dreamed. Or you can both just have coffee and listen to your Loeb. And then if she has a Loeb that sits on the nightstand in the next room, that can be something that you share.
+
+So when you go pour that cup of coffee, you can give your wife a very articulate account of what you dreamed. Or you can both just have coffee and listen to your lobe. And then if she has a lobe that sits on the nightstand next to her bed, that can be something that you share.
+
+So it's really driving deeper relationships. It's really driving deeper relationships.
+
+So it's really driving deeper relationships. Right, so that's the ultimate. It's really driving deeper relationships. Okay, and then what, so I think there's some interesting components here. What if you want to know what the dream means? I am so glad you asked about that, because dreams are weird. Yeah, yeah. can be a lot of day residue in dreams. I actually am a very, I have a lot of day residue, I think I over index for that. Okay. Where you like re-dream.
+
+I am so glad you asked about that because dreams are weird. You know, there's, there can be a lot of day residue and dreams. I actually am a very, I have a lot of day residue. think I over index for that. where you like read dream things that happened during your day, but like in a different way. Yeah. I didn't even know what reality is. Yeah. What it's kind of weird. I took a, a psychology, a class in college and the teacher was fascinating.
+
+In-person participant 1 (15:16.691)
+things that happened during your Oh sure. Yeah, yeah, sure. And then you don't even know what reality is. Sometimes. Yeah, well it's kind of weird. I took a psychology class in college and the teacher was fascinating. She was a sleep expert and was like one of the foremost sleep experts in the military. Wow. Like trying to understand sleep. so we actually, was just an intro psychology course, but she taught us an amazing amount about sleep. I was like, oh, that's actually. Yeah.
+
+she was a sleep expert and was like one of the foremost sleep experts in the military, like trying to understand sleep. And so we actually, it was just an intro psychology course, but she taught us an amazing amount about sleep. And I was like, day residue, like that's actually, so that's, that's a paid feature and that's how we're going to make money, right? Exactly. Exactly. It's a monthly subscription for dream interpretation. You know, and so that's.
+
+So that's a paid feature and that's how we're going to okay. Monthly subscription. Exactly. It's a monthly subscription for dream interpretation. so that's actually how we make money. Because of course you hear your dream and it's not going to make complete sense because dreams are weird. And so you want an interpretation of that dream and Lobe will give you an interpretation of the dream.
+
+That's actually how we make money. Because of course you hear your dream and it's not gonna make complete sense because dreams are weird. And so you want an interpretation of that dream and Loeb will give you an interpretation of the dream, you know, for a small fee. What would you be willing to pay for that by the way? Just doing some little market research here.
+
+Yeah. What would you be willing to pay for that? Just doing some little market Some market research. For Loeb. So imagine there's an upfront hardware cost. Like, you know, you gotta buy the thing. And then there's a monthly subscription. Yeah. We're still working out how to go to market on that because you can subsidize the hardware with the subscription.
+
+Studio (16:31.571)
+Yeah, you, yeah, we're still working out the go-to-market on that because you can subsidize the hardware with the subscription and that can be a loss leader for acquisition. But we're so...
+
+Okay. All right. So you're just talking about like the monthly interpretation fee. So I think I'd want a free trial because I feel a little, a little skeptical, but let's say, let's say you like really impressed me and I was like, wow, that was like a really deep insight into my dream.
+
+Mm-hmm.
+
+think I won.
+
+Studio (16:53.127)
+Definitely you're getting a free trial.
+
+Studio (16:59.515)
+Mm-hmm
+
+I don't know. think the free trial actually needs to...
+
+I think the free trial actually needs to run for a certain number of interpretations because as you build a, as you build, cause you know, you can, people often dream the same thing. Right? So the free trial actually is designed to obtain enough material for it to, you know, start to do pattern matching and, okay. And then.
+
+for a certain number of interpretations because as you build, because you know, people often dream the same Recurring dreams, sure, yeah. So the free trial actually is designed to obtain enough material for it to start to do pattern matching. Right, right. And then of course from there, the different plans you can.
+
+You know, of course, from there, the different plans, can connect it to Sora or other tools, Nano Banana, and you can generate images or even a video of your train.
+
+In-person participant 1 (17:40.84)
+you you can connect it to, you know, Sora or other tools, nano-vanilla, and you can generate images or even a video of your train. For additional fees? Those are like the pro and plus plans. Yeah, exactly. Exactly. Actually.
+
+Yeah, of course. Yeah, yeah, exactly. Exactly. I actually, I mean, in all seriousness, it would be, that would be the type of thing that you would like share with your friends where it's like, okay, here's a Sora video. Okay, I wake up, I speak to Loeb. It generates a complete picture of my dream and then generates a Sora video of it.
+
+I mean, in all seriousness, that would be the type of thing that you would like to share with your friends. Where it's like, okay, here's a Sora video. Okay, I wake up, I speak to Loeb, it generates a complete picture of my dream and then generates a Sora video of it. You would share that with your friends because it would be hilarious. Yeah, I mean, I think it-
+
+You would share that with your friends because it would be hilarious. Or disturbing.
+
+Sure, but I think it opens up an entire channel that we should talk about when we talk about go-to-market, so I'm not going to say no. Some partner channels.
+
+Studio (18:36.667)
+Okay. Ooh. Okay, what do you think? How did I do? That was more difficult than I thought. Also, constraints were brutal.
+
+Okay, what do you think? what would I pay for? That was more difficult than I thought. I mean, give it, I was going to say, I mean, pretty good for the constraints for sure. I appreciate that. Yeah. The constraints are, the constraints are rough because you went down a nice creative path. You didn't try to invent what Sam Altman and Johnny Ive are trying to do, which right? Like that's the obvious path. It's niche. When Kate sleeps, the mattress company is another.
+
+Okay, I appreciate that.
+
+constraints are rough because you went down a nice creative path.
+
+Studio (19:04.915)
+Right, it's niche. eight sleep, the mattress company is another integration. think, what was the study that came out recently? Only a third of Americans say they get enough sleep. That's a big problem.
+
+Mm-hmm. Yeah, brilliant. Yeah Yeah, think what was the study that came out recently only a third of Americans say they get enough sleep. Mm-hmm here's another fun one Yeah, there you go That seems low There's another fun one that was even higher. I don't remember the percentage, but it was if you had an extra I Don't know
+
+That's the TAM. 66 % of Americans.
+
+In-person participant 1 (19:38.836)
+X number of hours per month, let's say five or 10 or something, what would you do with it? And I think a high percentage, like 70 or 80 % said sleep. So you can add that to your investor deck. Okay. We got it. need to, our listeners are probably like, okay, let's move on. Right. was a solid 20 minutes.
+
+A high percentage, like 70 or 80 percent said sleep. Oh, wow. Not surprising. back to your investor back. That's great. Okay, we need to... Our listeners are probably like, okay, let's move on. This is all in 20 minutes. That was, yeah. Did I sprinkle in enough believable Silicon Valley terminology?
+
+Did I sprinkle in enough believable, you know, Silicon Valley?
+
+In-person participant 1 (20:14.951)
+I mean, pretty good. I think you could have gone heavier though. There's always room for improvement. I did just create a startup live. We're going to do more reps on this. Yeah, we'll get better. Yes. And I cannot wait to return the favor. It's going to be brutal. Yeah. Okay. Let's talk about a commencement speech. This is actually, I think a... So I can't remember where I found...
+
+Okay. Okay. That was, I did, I did just create a startup live. We're going to do more reps on this. Yes. And I cannot wait to return the favor. Yeah. Okay. Let's talk about a commencement speech. This is actually, I think a, so,
+
+I can't remember where I found this. Someone actually told me about this. Actually, a scholar, I do remember, no. If I told Loeb this, would have already, you know, would have known this. A scholar who was part of the, institute that studies C.S. Lewis. I didn't tell you this. Okay, yeah, I just remembered this, because I was trying to remember where I found this college commencement speech.
+
+Someone actually told me about this. Actually a scholar, I do remember. If I told below this I would have already, you know, would have known this. A scholar who was part of the...
+
+an institute that studies C.S. Lewis. I didn't tell you this. No, I don't know this back story. Yeah, I just remembered this because I was trying to remember where I found this college commencement speech. let's tell our listeners. The commencement speech is over 80 years old, 1944. So during World War II, C.S. Lewis, who's a famous author, probably most well known for the Chronicles of Narnia children's book series.
+
+Studio (21:10.483)
+So let's, okay, let's tell our listeners. The commencement speech is over 80 years old, 1944. So during World War II, C.S. Lewis, who's a famous author, probably most well known for the Chronicles of Narnia children's book series. He did a lot of stuff publicly. He was a BBC radio guest during World War II. So he did a lot of different stuff.
+
+He did a lot of publicly. was a BBC Radio guest during World War II. he did a lot of stuff. Professor at Oxford, right? One of the colleges at Oxford. I don't remember the new college, maybe. There's a lot of colleges. There are lot of colleges within Oxford. And so he gave a commencement speech for a graduating class at.
+
+One of the colleges at Oxford, I don't remember the new college maybe. There's a lot of colleges, there are a lot of colleges within Oxford.
+
+And so he gave a commencement speech for a graduating class at King's College in 1944. And so yeah, so there's a guy who I know who was part of an institute that sort of studied C.S. Lewis, because he was super prolific. And I can't remember what we were talking about, but he mentioned the speech. And so I went and read it, and it had a profound impact on me.
+
+King's College in 1944. And so yeah, so there's a guy who I know who was part of an institute that sort of studied C.S. Lewis because he was super prolific. And I can't remember what we were talking about, but he mentioned the speech and so I and read it and it had a profound impact on me. And I think shortly after I shared it with you and a number of other friends because it was just a very, very, it had a profound impact on me.
+
+Studio (22:15.035)
+And I think shortly after I shared it with you and a number of other friends because it was just a very, very, it had a profound impact on me. And when we were talking about the first episode of the show, in addition to just riffing and being silly, like we just did for 20 minutes, we thought that the inner ring was a good, really a good calling card for the show in many ways, for a couple reasons. I think one is that the sort of core,
+
+When we were talking about the first episode of the show, in addition to just riffing and being silly, like we just did for 20 minutes, we thought that the inner ring was a good, really a good calling card for the show in many ways, for a couple reasons. I think one is that the sort of core principles that it teaches, I think we hold very close to heart as people who work on, you know, sort of the...
+
+principles that it teaches, I think we hold very close to heart as people who work on, you know, sort of the, you know, the, say the cutting edge of technology, especially with AI, who are trying to navigate that in a way that, you know, we can apply wisdom and principles, you know, to both our professional life and, you know, our personal life. And then I think that there's also this other side of.
+
+you know, let's say the cutting edge of technology, especially with AI, who are trying to navigate that in a way that, you know, we can apply wisdom and principles, you know, to both our professional life and, you know, our personal life. And then I think that there's also this other side of...
+
+the term we've been using is analog trust, where the AI didn't exist in 1944. And these are timeless principles. And so we both have had a desire to explore tech topics using maybe more fundamental, historically time-tested principles of wisdom.
+
+In-person participant 1 (23:13.191)
+the term we've been using is analog trust. You the AI didn't exist in 1944. And these are sort of timeless principles. And so we both have had a desire to sort of explore tech topics using sort of maybe more fundamental, historically time-tested.
+
+principles of wisdom. So I had this crazy idea of meeting a very large portion of this commencement speech. It's not the whole thing, but you might not believe us. It's not the whole thing. So let's read this, let's talk a little bit about it, and then I want to actually just...
+
+So I had this crazy idea of reading a very large portion of his commencement speech on the show.
+
+It's not the whole thing. So let's read this. Let's talk a little bit about it. And then, and then I want to actually just live apply it to where we live today, especially as it relates to AI. And we can talk about some of our text message exchanges.
+
+to where we live today, especially as it relates to AI. And we can talk about some of our text messages. Yes. and we can talk, we've got a framework, a modern framework here. yes. That we can talk about. Yes. As well. So that'll be fun. All right. Buckle up. We're gonna read selected quotes from The Inner Ring by C.S. Lewis. This is a commencement speech from King's College.
+
+Studio (24:15.853)
+yes. All right. Buckle up. We're going to read selected quotes from the Inner Ring by C.S. Lewis. This is a commencement speech from King's College, Oxford, 1944. And I'll go ahead and say the first, the first part of it is a quote from a Tolstoy passage.
+
+Oxford 1944. And I'll go ahead and say the first part of it is a quote from a Tolstoy passage. So we're just going to start out with the Tolstoy quote. When Boris entered the room,
+
+So we're just gonna start out with the Tolstoy quote.
+
+When Boris entered the room, Prince Andry was listening to an old general wearing his decorations who was reporting something to Prince Andry with an expression of soldierly servility on his purple face. All right, please wait, he said to the general, speaking in Russian with a French accent which he used when he spoke with contempt. The moment he noticed Boris, he stopped listening to the general who trotted imploringly after him and begged to be heard.
+
+Prince Andry was listening to an old general wearing his decorations who was reporting something to Prince Andry with an expression of soldierly servility on his purple face. All right, please wait, he said to the general, speaking in Russian with a French accent which he used when he spoke with contempt. The moment he noticed Boris, he stopped listening to the general who trotted imploringly after him.
+
+Studio (25:17.821)
+while Prince Andrew turned to Boris with a cheerful smile and a nod of the head. Boris now clearly understood what he had already guessed, that side by side with a system of discipline and subordination which were laid down in the army regulations, there existed a different and more real system. The system which compelled a tightly laced general with a purple face to wait respectfully for his turn while a mere captain like Prince Andrew chatted
+
+Prince Andrew turned to Boris with a cheerful smile and a nod of the head. Boris now clearly understood what he had already guessed, that side by side with a system of discipline and subordination which were laid down in the Army regulations, there existed a different and more real system.
+
+the system which compelled a tightly laced general with a purple face to wait respectfully for his turn while a mere captain like Prince Andrew chatted with a mere second lieutenant like Boris. Boris decided at once he would be guided not by the official system, but by this other unwritten system. That's the end of the Tolstoy quote.
+
+with a mere second lieutenant like Boris. Boris decided at once he would be guided not by the official system, but by this other unwritten system.
+
+That's the end of the Tolstoy quote. In the passage I have just read from Tolstoy, the young second lieutenant, Boris, discovers that there exists in the army two different systems or hierarchies. The one is printed in some little red book and anyone can easily read it up. It also remains constant. A general is always superior to a colonel and a colonel to a captain. The other is not printed anywhere, nor is it even a formally organized secret society with officers and rules
+
+In-person participant 1 (26:02.053)
+In the passage I have just read from Tolstoy, the young second lieutenant, Boris, discovers that there exist in the army two different systems or hierarchies. The one is printed in some little red book and anyone can easily read it up. It also remains constant. A general is always superior to a colonel.
+
+The other is not printed anywhere, nor is it even a formally organized secret society with officers and rules which you would be told after you have been admitted. You are never formally and explicitly admitted by anyone. You discover gradually, in almost indefinable ways, that it exists and that you are outside it, and then later, perhaps, that you are inside it.
+
+which you would be told after you had been admitted. You are never formally and explicitly admitted by anyone. You discover gradually in almost indefinable ways that it exists and that you are outside it, and then later, perhaps, that you are inside it. Badly as I may have described it, I hope you will all have recognized the thing I am describing. Not, of course, that you have been in the Russian army, or perhaps in any army, but you have met the phenomenon of an inner ring.
+
+Badly as I may have described it, I hope you will all have recognized the thing I am describing. Not of course that you have been in the Russian army, or perhaps in any army, but you have met the phenomenon
+
+You discovered one in your house at school before the end of the first term. And when you had climbed up to somewhere near it by the end of your second year, perhaps you discovered that within the ring there was a ring yet more inner, which in its turn was the fringe of the great school ring to which the house rings were only satellites. It is even possible that the school ring was almost in touch with a master's ring. You were beginning, in fact, to pierce the skins of an onion.
+
+In-person participant 1 (26:58.909)
+You discovered one in your house at school before the end of the first term. And when you had climbed up to somewhere near it by the end of your second year, perhaps you discovered that within the ring there was a ring yet more inner, which in its turn was the fringe of the great school ring to which the house rings were only satellites. It is even possible that the school ring was almost in touch with a master's ring. You were beginning, in fact, to pierce the skins of an onion.
+
+And here too, at your university, shall I be wrong in assuming that at this very moment, invisible to me, there are several rings, independent systems or concentric rings present in this room. And I can assure you that in whatever hospital, in of court, diocese, school, business or college you arrive after going down, you will find the rings, what Tolstoy calls the second or unwritten systems. The quest of the inner ring will break your hearts
+
+And here too, at your university, shall I be wrong in assuming that at this very moment, invisible to me, there are several rings, independent systems or concentric rings, present in this room. And I can assure you that in whatever hospital, inner court, diocese, school, business, or college you arrive after going down, you will find the rings, what Tolstoy calls the second or unwritten systems.
+
+The quest of the Inner Ring will break your hearts unless you break it. But if you break it, a surprising result will follow. If in your working hours you make the work your end, you will presently find yourself all unawares inside the only circle in your profession that really matters. You will be one of the Sound Craftsmen, and other Sound Craftsmen will know it. This group of Craftsmen will by no means coincide with the Inner Ring or the important people
+
+unless you break it. But if you break it, a surprising result will follow. If in your working hours you make the work your end, you will presently find yourself all unawares inside the only circle in your profession that really matters. You will be one of the sound craftsmen, and other sound craftsmen will know it. This group of craftsmen will by no means coincide with the inner ring or the important people or the people in the know.
+
+In-person participant 1 (28:21.735)
+people in the know. It will not shape that professional policy or work up that professional influence which fights for the profession as a whole against the public. Nor will it lead to those periodic scandals and crises which the inner ring produces. But it will do those things which that profession exists to do and will in the long run be
+
+It will not shape that professional policy or work up that professional influence which fights for the profession as a whole against the public. Nor will it lead to those periodic scandals and crises which the inner ring produces. But it will do those things which that profession exists to do and will in the long run be responsible for all the respect which that profession in fact enjoys and which the speeches and advertisements cannot maintain.
+
+be responsible for all the respect which that profession in fact enjoys and which the speeches and advertisements cannot maintain. And if in your spare time you can sort simply with people you like.
+
+And if in your spare time you can sort simply with people you like, you will again find that you have come unawares into a real inside, that you are indeed snug and safe in the center of something which, seen from without, would look exactly like an inner ring, but the difference is that the secrecy is accidental, and its exclusiveness a byproduct, and no one was led thither by the lure of the esoteric, for it is only four or five people who, like one another, meeting to do things that they like.
+
+you will again find that you have come unawares into a real inside, that you are indeed snug and safe in the center of something which, seen from without, would look exactly like an inner ring, but the difference is that the secrecy is accidental, and its exclusiveness a byproduct, and no one was led thither by the lure of the esoteric, for it is only four or five people who, like one another, needing to do things that they like.
+
+Studio (29:23.229)
+This is friendship. Aristotle placed it among the virtues. It causes perhaps half of all the happiness in the world. And no inner ring can ever have it. We are told in scripture, that's the Bible, that those who ask get. That is true in senses I can't now explore. But in another sense, there is much truth in the school boys principle, them as asks shan't have.
+
+This is friendship. Aristotle placed it among the virtues. It causes perhaps half of all the happiness in the world. And no inner ring can ever have it.
+
+We are told in scripture, that's the Bible, that those who ask get. That is true in senses I can't now explore. But in another sense, there is much truth in the school boys principle, them as asks shan't have. To a young person just entering adult life, the world seems full of insides, full of delightful intimacies and confidentialities, and he desires to enter them. But if he follows that desire, he will reach no inside that is worth reaching. The true road lies
+
+To a young person just entering adult life, the world seems full of insides, full of delightful intimacies and confidentialities, and he desires to enter them. But if he follows that desire, he will reach no inside that is worth reaching. The true road lies in quite another direction. It is like the house in Alice through the looking glass. Selected quotes from The Inner Ring.
+
+in quite another direction it is like the house in Alice through the looking glass." Selected quotes from the Inner Ring.
+
+In-person participant 1 (30:15.539)
+That was awesome. Yeah, that was a long passage. Also, I got to say, enters thither through the lure of the esoteric, which... Dream, dream sentence. Dream sentence. We've joked about the word thither a lot in the three recordings that we've done getting to this. That's a great read through. When you do it three or four times, it does get better. Yeah, I do feel like I got better. Okay, a couple things that...
+
+Yeah, that was a long passage. Also, I got to say, enters thither through the lure of the esoteric, which we could do. Dream sentence. Dream sentence. We've joked about the word thither a lot in the three recordings that we've done getting to this final. We do it three or four times. Yeah, totally, totally. I do feel like that got better. Okay, a couple things that I wanna talk about.
+
+So this idea of the inner ring, think is something that, I really appreciate that C.S. Lewis puts words to this because it's something that we all experience. And I think a lot of times is very hard to describe, but it's something that you sense. So.
+
+So this idea of the inner ring, think is something that I really appreciate that C.S. Lewis puts words to this because it's something that we all experience. And I think a lot of times is very hard to describe, but it's something that you sense.
+
+Maybe let's dig into, actually I'll just start with a very direct question. Okay, since you made me create a startup.
+
+In-person participant 1 (31:16.891)
+Maybe let's dig into, actually, I'll just start with a very direct question. Okay? Since you made me create. no. Payback.
+
+Okay, when did you experience an inner ring? The first inner ring that you thought, I actually really want to be part of that. You sort of felt the desire well up in you because if I go back,
+
+Okay, when did you experience an inner ring, the first inner ring that you thought, I actually really want to be part of that. You sort of felt the desire well up in you because if I go back to a young person entering an adult life, the world seems full of insides, full of delightful intimacies and confidentialities and he desires to enter them. And so I think it's...
+
+You know, to a young person entering an adult life, the world seems full of insides, full of delightful intimacies and confidentialities, and he desires to enter them. And so I think it's, it's one thing to look at these inner rings objectively and say, okay, those exist, right? But it's another thing to actually come face to face with one and realize that you actually really desire to enter it. Do you remember your first experience of that?
+
+It's one thing to look at these inner rings objectively and say, okay, those exist. Right. Sure. But it's another thing to actually come face to face with one and realize that you actually really desire to enter it. Right. Do you remember your first experience of that? Yeah. So I think first, I think they develop at a certain age and don't really exist before then. I don't know when.
+
+Studio (32:26.397)
+Hmm
+
+So I think that's interesting if you like really small kids don't have these. Right. And then I would say for me probably around middle school, maybe late elementary school, middle school. Right. But that's the first, I don't know if you remember any before then personally, but that's my first memory. And so Eric and I both grew up in the Carolinas and something, especially when, when we were young, that was a really, really big a soccer.
+
+think that's interesting if you, like, really small.
+
+Right.
+
+Studio (32:38.355)
+Let's say for.
+
+Well, middle school inner rings.
+
+Studio (32:51.855)
+So Eric and I both grew up in the Carolinas. And something especially when we were young was really, really big, a soccer. I don't know. Yeah, huge. Yeah, we didn't know each other, but that was just something big in the area. So I played a little bit, but not super competitively. Yep. And around middle school,
+
+I don't know. don't know if, yeah. Yeah. Yeah. We didn't know each other, but that was just something big in the area. So I played a little bit, but not like super competitively and around middle school that was really picking up and a lot of like people I was in school with people that I knew like started doing it more competitively. And I kind of stayed, stayed at the casual level. Yeah, was. mean, you travel leagues. Yeah. Travel league school, like the
+
+people I was in school with, people I knew started doing it more competitively. And I kind of stayed at the casual level. Right. Yeah, there was. mean, huge travel leagues and...
+
+the schools would have, there's travel leagues and school teams. And then there was like the recreational leagues. And I was, I was more of a recreational league player than a, than a traveler. Yeah. So that's my first memory I would say of, that developed and, and, and, you know, people around me were doing travel or travel and like the school leagues and, and, you know, kind of progressing and getting better. What's, which shows up at recess or shows up at, you know,
+
+school teams.
+
+Studio (33:33.935)
+Yep. Same here, same here.
+
+Studio (33:48.157)
+know, kind of progressing and getting better, which shows up recess or shows up at, you know, when they're in their off season playing recreational and you are in the gap, and the skill gap grows, right? Right. Because they've spent, you know, whatever, you know, traveling.
+
+when they're in their off season playing recreational and you are in the gap, in the skill gap grows, right? Cause they've spent, you know, whatever, you know, traveling or doing whatever. And then they come back and do like their off season rec and you're on the team too. And you're like, wow, they're way better than me. That's probably the first example I can pick up. Yeah. Yeah. Cause they have their season where they're doing their travel thing or their school thing. And then they come back and they're off season and then you can end up on the same team.
+
+Yeah. yeah, they come back to the, yeah, they play rec league to just see it.
+
+Studio (34:20.616)
+Yep.
+
+In-person participant 1 (34:24.273)
+Right, and this off-season thing, and you didn't have the reps. then the skill gap grows even more, and you're like, That's what comes to mind, first thing. What about you? That's a great question. I would say similar experience. You know, the middle school, high school.
+
+Yep. Yeah, Totally. Okay.
+
+Studio (34:36.403)
+That's a great question. I would say similar experience. know, the middle school, high school, inner ring. You know, there are the cool kids in high school, you know, who, you know, whatever. It's, you know, they, they. yeah, yeah, more of a social perspective. I mean, the sports thing definitely exists. It definitely, yeah, they're definitely interrelated, right? I think, you know.
+
+you know, there are the cool kids in high school, know, who, you whatever, it's, you they, they- So you're thinking from like a social perspective? Yeah, yeah, yeah, more of a social perspective. I mean the sports- Which, but that, I mean that crosses into social, right? Definitely. Yeah, they're definitely-
+
+in the speech, he calls it concentric, you know, concentric rings. and so that definitely plays into it, but you know, of course, like who's getting invited to this person's house, you know, for this person's birthday party. And that's just a, you know, to some extent, a representation of, you know, are you in the inner ring? Right. Or whatever, there's a group going camping, you know, those sorts of, you know, those sorts of things. you know, and so I think I.
+
+speech he calls it concentric. Yeah, good point. And so that definitely plays into it, but you know of course like who's getting invited to this person's house? Oh sure. And that's just a you know to some extent a representation of you know are you in the inner ring? sure. Whatever there's a group going camping, those sorts of things. You know and so I think I
+
+I think you desire, you don't want to be lonely, you want to be accepted and valued. I think the thing that I wanted to explore a little bit is why do you think that that group of the inner ring is so attractive? Because it's like there's other groups, right?
+
+In-person participant 1 (35:36.316)
+I think, you you desire, you know, you don't want to be, you don't want to be lonely. want to be accepted and valued. And I think the thing that I, the thing that I wanted to explore a little bit is why do you think that that group of the inner ring is so attractive? You know, there's, because it's like, there's other groups, right?
+
+I wasn't necessarily one of the cool kids, you know, as part of the in group. but you want to be part of that. And I think it's so interesting in the speech that CS Lewis really kind of says, you know, there's, this is, Hey, this is a thing that you've all noticed, even if you haven't put a name on it and be your natural inclination is going to be to want, to want to go there. Right. And so.
+
+I wasn't necessarily one of the cool kids, you know, as part of the in group. But you want to be part of that. And I think it's so interesting in the speech that C.S. Lewis really kind of says, you know, this is, hey, this is a thing that you've all noticed, even if you haven't put a name
+
+And B, your natural inclination is going to be to want to go there. Right. Right? And so there is a sense in which I'm not content with a soccer rec league. I'm not content with my, you know, whatever friend group that I'm in. I want to go, you know, over to the party with these cool kids or whatever. Why do you think that is? What is it in us that, you know, has this desire to be on the inside?
+
+There is a sense in which I'm not content with a soccer rec league. I'm not content with my, you know, whatever friend group that I'm in. I want to go, you know, over to the party with, you know, these cool kids or whatever. Why do you think that is? What is it in us that, you know, has this desire to be on the inside?
+
+In-person participant 1 (36:57.907)
+That's a good question. I think everybody wants to be part of something. think the absence of it, because there's really two things. There's one feeling like you're in a circle, but you want to be in a better circle. And there's another one feeling like you don't have a circle at all and want to be in a circle. Does that make sense? I think those are two different things. Yep.
+
+Hmm. Yep. Yep. Yep.
+
+I think I'm not in a circle and I want to be in one ends up being more like, don't want to, nobody wants to be lonely. I don't want to be lonely. I don't, you know, and I want to be part of this thing. The other one's actually a little more interesting though. Or if you have friends and you are in a circle, but you want to be like in the better one. And that I think is more like envy or maybe competition. I think, so I do think they're a little bit different. Yeah. Well, I think, okay, if we let's play this out.
+
+Yep.
+
+Studio (37:42.237)
+Yep.
+
+Studio (37:48.881)
+Yep.
+
+Yeah. Well, I think, okay, if we, let's play this out first in the context of the middle school, high school experience and then professionally, right? Because I think that's where, you know, I think that's, it doesn't go away. away. It doesn't go away. It just changes. Yes. So I think one of the realizations that you have as you get older. Okay. So let's take the high school, middle school.
+
+first in the context of the middle school, high school experience, and then professionally, right? Because I think that's where, you know, I think that's... It doesn't go away. It doesn't go away. It just looks a little bit different, yeah. So, I think one of the realizations that you have as you get older... Okay, so let's take the high school, middle school dynamic, right?
+
+dynamic, right? So you have the cool kids and then you have different groups, cliques, whatever term you want to put on it, right? And then, okay, you have maybe the sports, you have the varsity sports sort of group, you have maybe the smart kids, let's say, right? So they're in all the honor and AP classes and you
+
+So you have the cool kids and then you have different groups, cliques, whatever term you want to put on it. And then you have maybe the varsity sports group. You have maybe the smart kids, they're in all the honor and AP classes and maybe debate club.
+
+Studio (38:49.683)
+maybe debate club and whatever, those sorts of things. Then maybe you have all different types of groups of people who maybe feel like they don't fit into those categories. And there's a bunch more. And of course I'm heavily stereotyping, but I think most people will resonate with the fault line sort of break generally along those lines.
+
+those sorts of things. Then maybe you have all different types of groups of people who maybe feel like they don't fit into those categories. And there's a bunch more. And of course, I'm heavily stereotyping, but I think most people will resonate with the fault line generally along those lines. And the average person is?
+
+kind of more average in each of those things and not necessarily extraordinarily smart or extraordinarily athletic, whatever.
+
+Right. Athletic. Right. I think one of the interesting things is that within each of those groups, it's the layers of the union. Right? It's not like it's just the cool kids. That seems like sort of the most desirable one because of maybe what it gets you, right? Sort of like reputation or access or whatever. But even within, let's say the
+
+But I think one of the interesting things is that within each of those groups, it's the layers of the onion. It's not like it's just the cool kids. That seems like sort of the most desirable one because of maybe what it gets you, So reputation or access or whatever. But even within, let's say the, you know.
+
+Studio (39:51.908)
+know, debate club or AP classes, right? It's a grades thing, right? Or it's an achievement thing, right? And so within each one of these, there's just sort of an unending, you know, layers of the onion where you go deeper and deeper. And so what does that look like professionally? I think is, Which is more. Which is.
+
+debate club or AP classes, right? It's a grades thing, right? Or it's an achievement thing, right? And so within each one of these, there's just sort of an unending, you know, layers of the onion where you go deeper and deeper. And so what does that look like professionally? think it's... Which is more... I think it changes. I can remember my first experience of this professionally.
+
+I thought it would go away to be honest. I thought, yeah, I thought we're all adults. Like this is going to be like everybody's going to be professional. I mean, like people are people, but I mean, they'll be like professional at work, right? And they can do whatever they want in their own time. It'll be fine. Like, no, that's not reality. But yeah, my first experience,
+
+Like when you enter the professional world, like, I'm leaving all this drama behind.
+
+Studio (40:33.907)
+Everyone's gonna be professional.
+
+Studio (40:46.479)
+That's not reality. But my first experience, that I remember professionally, it feels different because you are all there.
+
+that I can remember professionally was it feels different because you are all there. Maybe you're on a different team, you're all there like for a mission, whether it's been articulated or not, right? It's a for-profit company to make money, you know, essentially to make the company money. but I remember
+
+Maybe you're on a different team, but you're all there like.
+
+Mission, whether it's been articulate or not.
+
+Studio (41:15.783)
+Yeah, yeah. Yeah, yeah.
+
+In-person participant 1 (41:23.367)
+So it's, it's just a little bit tighter where it feels like in school, like you can just have a little bit more diversity of, of, you know, groups. So, so I remember being, being at this job and being on the outside of the end group, because groups can form in weird ways. Like people, they like happen to get hired at the same time and you're like the new person. Like that's one that's really common. So then other people get hired and you're not really the new guy anymore. So that, that's a component, but I remember.
+
+It's just a little.
+
+Studio (41:29.939)
+So I remember being at this job.
+
+Studio (41:36.147)
+side with the end group because
+
+Studio (41:42.449)
+Right yep
+
+Yeah. yeah.
+
+Not at all being in the inner circle, being on the bubble and then being in the inner circle and realizing there were more inner circles. I remember all three of those things actually. Okay, let me drill down to this because I love putting language to this thing that we all observe. You were not in the inner circle and you realized there were more inner circles. Yes. What did the inner circle, sort of the first inner circle that you observed?
+
+Hmm. Okay. Let me drill down into this because I love putting language to this thing that we all observe. You are not in the inner circle and you realize there were more inner circles. What did the inner circle, sort of the first inner circle that you observed, what were the specific dynamics of that? Right? Because I think one of the, I think there are a couple of things at play here. One is that
+
+What were the specific dynamics of that? Because I think there are a couple things at play here. One is that we all have this sense of wanting to belong and feel important. I think that is, C.S. Lewis really picks up on that, of like, you're gonna be drawn to this, right?
+
+Studio (42:30.151)
+we all have this sense of wanting to belong and feel important. I think that is, C.S. Lewis really picks up on that of like, you're gonna be drawn to this, Intimacies, confidentialities, right? And I think those things, I think that represents a lot of things, but one major part of that when you think about the professional environment, right, is you're spending a huge percentage of your actual life.
+
+Intimacies, confidentialities, right? And I think those things, I think that represents a lot of things, but one major part of that when you think about the professional environment, is you're spending a huge percentage of your actual life at work. And a lot of times your identity can be tied up in your job, your success,
+
+at work, you know? And there are, you know, a lot of times your identity can be tied up in, you know, your job, your success, whatever, right? And so the inner ring sort of represents this sort of sense of belonging, sense of importance and sense of accomplishment, you know, that can be very deeply personal. But what did the dynamics of that
+
+The.
+
+the inner ring sort of represents this sort of sense of belonging, sense of importance and sense of accomplishment, you know, that can be very deeply personal. But what did the dynamics of that, and I think that's what attracts us, but what were the specific characteristics of the inner ring that you saw in terms of was there some sort of currency inside the, like organizational currency that was created, decision-making ability, maybe it can even often just be knowledge of things, right?
+
+Studio (43:27.025)
+And I think that's what attracts us, but what were the specific characteristics of the inner ring that you saw in terms of, was there some sort of currency inside the, organizational currency that was created, decision-making ability, maybe it can even often just be knowledge of things, right? Like I just have knowledge, there's a sense of like knowledge scarcity, you know, where it's like, I know things even if, you it doesn't necessarily translate to specific decisions.
+
+there's a sense of knowledge scarcity, where it's like, I know things even if it doesn't necessarily translate to specific decisions. Yeah, so I think a few things. One is the informal meetings, lunches, things like that that happen where you're like, oh, okay, I noticed that I was not included in on that, got it? And it's often set up such that like,
+
+Mm-hmm
+
+I didn't need to be like, can do my job without being in on that conversation. So it's not like a problem from, um, affecting your execution of your work. That was one component, but I think the inner ring component, but some of that was also hierarchy. Like I'm not X level. I'm an individual contributor at this job. Like the managers are having a meeting with whatever other managers are there super whatever. So there's a component there. Um,
+
+can do my job without being on that conversation.
+
+Studio (44:21.469)
+Right, right.
+
+Studio (44:36.871)
+Yep.
+
+But the most interesting thing is when people that are at your similar level are kind of brought into things formally or informally and you're like, hmm, like there's just kind of a feeling of like, there are five developers at this company and they all have the same title. And the one seems to get pulled into like more discussions or more important discussions or gets more important work than the other ones.
+
+your similar level.
+
+Studio (44:52.947)
+There's just kind of a feeling of like, there are five developers at this company and they all have the same title. And the one seems to get pulled into like more discussions or more discussions or gets more important work than the other.
+
+And then, so that's like from a professional, and then there's kind of a social component, which is just, think, natural, where certain people are better friends with others, and there's just like a social component layered on at work. Especially when you're co-located. I think remotely, I think this plays out quite the same. But all of my first three jobs mostly were co-located.
+
+And then, and then the, so that's like from a professional and then there's kind of a social component where, which is just, I think natural where certain people are better friends with others and there's just like a social component layer layered on at work. especially when you're like, when you're co-located, think remotely, I don't know if this plays out quite as quite the same, but all of my first three jobs mostly were co-located with people.
+
+Yeah, so that's what I noticed. part of it is sometimes it's easy to explain, well, I'm new. And they're already friends, or they're already involved in this project, and I'm not. But I think it gets harder for people when you're like, I'm not new. You know what I mean? Or I should be included in this, or I want to be included in this. That's where it gets harder. Yeah, so would you say, so it sounds like the other developer pulled into these meetings.
+
+Yeah, so that's what I noticed.
+
+Studio (45:45.95)
+part of it is sometimes it's easy to explain, well I'm new, and like they're already friends, they're already involved in this project, I'm not. But I think it gets harder for people when like, I'm not new, you know what I mean? Or I should be included in this, or I wanna be included in this, that's where it gets. Yeah, yeah, yeah, so would you say, so it sounds like, the other developer gets pulled into these meetings, and so the inner ring sort of in that case,
+
+The inner ring, in that case, translated because the other developer is at the same structural level as you as an IC, whatever the title, the manager to have a meeting, but they continue to pull this other person in. And so the inner ring, in that case, translates into influence. You have a deeper influence over the decisions that the managers are making because you're part of the inner ring as opposed to the other developers. Or you just end up on more important or less important projects.
+
+translated because the other developer is at the same structural level as you as an ICE, whatever title, comparable. The managers have a meeting, but they continue to pull this other person in. And so the inner ring in that case translates into influence, right? Like you have a deeper influence over the decisions that the managers are making because you're part of the inner ring as opposed to just the other developers.
+
+In-person participant 1 (46:41.019)
+Because if you've got five things that need to be done and a lot of times it's clear that like well This is a high visibility important project the other four are not Then who gets selected for the high visibility important project
+
+Ooh, Yep. think one of the things that's so challenging about
+
+about this is the, you know, the inner ring is professionally so often associated with the things that you desire professionally. Right? I want to work on the important project, right? I want to progress in my career and working on the important project is an important part of progressing in my career. You know, those aren't necessarily bad things.
+
+about this is the, you know, the inner ring is professionally so often associated with the things that you desire professionally. Okay. Right? I want to work on the important project. okay. Yeah. I want to progress in my career. Right. And working on the important project is an important part of progressing in my career. Yeah. Right. Those aren't necessarily bad things.
+
+But in the speech, he's very clear that pursuing that will break your heart. So let's dig into that. What does that look like? Trying to be part of the inner ring and getting your heart broken, what does that look like?
+
+In-person participant 1 (47:29.233)
+But, you know, in the speech, he's very clear that pursuing that will break your heart. Right. So let's dig into that. What does it look like? You know, trying to be part of the inner ring and getting your heart broken. What does that look like? Thinking back, one of them, I really kicked myself afterwards because like three fourths into one of these projects that I was not on.
+
+I realized like, this is an important high visibility project and I didn't even see it. So I wasn't even smart enough to try to get on this project. So that was one that like stunk and, I don't know that I like whatever could have contributed much to the project, but that was one where I felt so naive of like, didn't even see this coming. So you feel kind of dumb.
+
+I wasn't even smart enough to try to get on this project. So that was one. And I don't know...
+
+Studio (48:10.803)
+But that was one where I felt so naive. like, I didn't even see this coming. Right. It kind of dumb. You're like, the door is open to the inner ring, and you're like, la la la.
+
+So I'd completely missed it, but I saw this one developer walk through that door and be on that project and I mean really has made a big difference in his career to this day. Yeah, totally. Yeah, that's kind of what I was, that's what I was getting at when it's hard to dissociate the pursuit of the inner ring with actual material.
+
+Hmm. Yeah. Yeah, totally. Yeah. That's kind of what I was. Yeah. That's what I was, you know, that's what I was getting at when it's, hard to dissociate the pursuit of the inner ring with actual material, you know, impact on your, on your career.
+
+you know, impact on your career. But the flip side of it, yeah, so here's the flip side for me. So that comes and goes, because projects always come and go. Then there's other things, and I do end up on some more high visibility things, get pulled into some more important conversations, feeling good about yourself. So I'm kind of in that first inner ring. So you made it in, at this point you made Yeah, I thought. Then I realized that
+
+So you made it in, at this point you've made it in.
+
+In-person participant 1 (49:23.943)
+There's that inner ring which, well, it's called like six people or eight people or something. But there was another one that was like three or four people that I was not part of that I figured out a couple of months into that. And then never ended up being part of that one. So you very much see and feel the onion piece, you know, pulling back the pieces of So is the dynamic of the other, okay, so you make it in the inner area, you're working on important projects, you have much more influence. And then the three or four people who are on, you know, who are in the next level deeper.
+
+Hmm
+
+Studio (49:36.595)
+So you very much see and feel the onion. What was the dynamic of the other? Okay, so you make it in the inner ring, you're working on important projects, you have much more influence, and then the three or four people who are in the next level deeper, what are they doing? How did that translate?
+
+What are, like, what are they doing? How did that translate? Yeah. I don't, some of it wasn't just a social friendship. They were, they were friends, I think, outside of work as well. And I wasn't as much friends with them. So think there was just a practical thing there. and I also think there was a practical, they, they all spent care a lot.
+
+Some of
+
+Okay.
+
+Yep. Yep. That's a super real dynamic.
+
+Studio (50:16.476)
+And I also think
+
+In-person participant 1 (50:24.165)
+about the, so they spent a lot of time on the like social interaction part of the job, if that makes sense. Not that they like, I mean they had jobs and did them, but they spent a lot of time on this other piece. And I don't even know like it was intentional. I do think there are just some people that are wired that are just so socially wired that they do naturally gravitate toward like
+
+So they spend a lot of time on the social.
+
+Yep Not that they had jobs and did them, but they spent a lot of time on this other piece. And I don't even know it was intentional. I do think there are just some people that are wired that are just so socially wired that they do naturally gravitate toward, for example, wanting to be in meetings. I've never professionally wanted to be
+
+For example, wanting to be in meetings. I've never professionally wanted to be in meetings. Like meetings are things you have when you need to have them. And there's other people that legitimately their default is like, we should have a meeting about that. That'd be great. So there was just some, mean, that's, I mean, I always say that's not necessarily wrong. I do feel like it's wrong, but it's probably not necessarily wrong. So yeah, I mean, that's just a very simple.
+
+Sure. 100%. 100%. Yeah. Yeah. Yeah. Yeah. Totally.
+
+In-person participant 1 (51:23.955)
+perspective difference that Okay, you're you're not supportive of our meetings like all right You're not and I'm not nobody probably actively thought that but that could be like one One axis. Yeah. Yeah. What about you? So actually, I don't think I pulled this up on my computer so I'm gonna pull out my phone which I feel like should be
+
+So actually, I don't think I pulled this up on my computer. So I'm going to pull out my phone, which I feel like should be a
+
+should try to keep that rare. there's a, let me pull up this episode. Okay.
+
+try to keep that rear. But there's a, let me pull up this episode. Okay.
+
+In-person participant 1 (52:00.18)
+I'll try to do an abbreviated version of my thoughts on this. Okay, I found the podcast episode. Excellent.
+
+I'll try to do an abbreviated version of my thoughts on this. OK, I found the podcast episode.
+
+So.
+
+I do feel...
+
+I do feel...
+
+Studio (52:17.927)
+on some level like I was given an opportunity to see inside a bunch of inner rings without necessarily seeking that early in my career. And so a lot of that was with. Or be inside, or be inside without necessarily thinking that I was, I mean the first was with the iron yard where I it was, I started a business with a couple guys.
+
+on some level like I was given an opportunity to see inside a bunch of inner rings without necessarily seeking that early in my career. And so a lot of that- You say see inside. You didn't say necessarily be part of. be inside. Oh, okay. Be inside without necessarily thinking that I was, you know- Inside. Yeah. I mean, the first was with the iron yard where, you know, I was- started a business with a couple guys.
+
+And I had no experience as an entrepreneur, but the main guy I started with, he was a successful entrepreneur several times over. And so in many ways, he sort of just brought me and another guy into, let's call it the inner ring of being a founder and starting a company and all that sort of stuff, Which I think itself can be an inner ring, you know, in communities, in a...
+
+And I had no experience as an entrepreneur.
+
+The main guy I started with, he was a successful entrepreneur several times over. so in many ways, he sort of just brought me and another guy into, let's call it the inner ring of being a founder and starting to up with all that sort of stuff. Which I think itself can be an inner ring. Yeah, absolutely. communities, in an actual physical community or city.
+
+Studio (53:17.843)
+you know, you know, physical community or city, right? They're sort of like, you know, I mean, even within San Francisco, you know, there's sort of this founder, you experience. have, you know, YC founders, you have, you know, all these intermix, right? And so, but it's particularly acute in like second tier markets, like Greenville, where we live, right? Where, you know, sort of- Are in second tier market, though? I don't know. Okay. I mean, we're not big enough to be first tier. I was thinking third. Oh, third tier.
+
+I mean, even within San Francisco, there's sort of this founder, you know, you have, you know, YC founders, have, you know, all these other things, right? And so, but it's particularly acute in like second tier markets like Greenville, right? Where... Are we a second tier market now? I don't know. Okay.
+
+I was thinking third. third tier. I don't know if there are three tiers. That's a good question. Which, there's an inner ring of cities. Yeah, I don't think we're part of it. We're working on it. We're working on it. So I think that there was this...
+
+Maybe. That's a good question. don't know. Which, there's an inner ring of cities. The tears.
+
+we're working on it. So I think that there was this...
+
+Studio (54:07.635)
+I got to do a lot of really interesting things through that experience, right? know, raise capital, you know, have a business that had, you know, physical locations, you know, across the entire United States and even internationally. So we launched like one in London. We had partnerships with all these interesting companies. I mean, I got lunch with,
+
+I got to do a lot of really interesting things through that experience. You know, raise capital, you know, have a business that had, you know, physical locations, you know, across the entire United States and even internationally. Yeah, right. launched one in London. We had partnerships with all these interesting companies. I mean, I got lunch with...
+
+with the founders of Zappos. So I actually got to meet Tony Shea before he passed away, which was really tragic. But I got lunch with him and they were trying to build a talent pipeline. And so we were teaching people how to build software, which seems like a lifetime ago because that whole format has basically gone away. And then we sold the company to a publicly traded company. And so I got to go through the process of actually having an exit as a founder.
+
+with the founders of Zappos. no way! That's awesome.
+
+In-person participant 1 (54:49.747)
+which seems like a lifetime ago because the whole format has basically gone away. And then we sold the company to a publicly traded company. And so I got to go through the process of actually having an exit as a founder. And I didn't realize it at the time, but I had sort of, and I didn't really even know what I wanted to do with my
+
+I didn't realize it at the time, but I had sort of, and I didn't really even know what I wanted to do with my career. I just had this opportunity and pursued it. then the first bumping up against an inner ring, I think for the first time was when I had an opportunity to go work for a Silicon Valley tech startup, like a venture-backed Silicon Valley tech startup, right?
+
+I just had this opportunity and pursued it and then the first Bumping up against an inner ring. I think for the first time Was when I had an opportunity to go work for a Silicon Valley tech startup
+
+Studio (55:35.633)
+And so, you know, there are lots of different things about the business that I had built previously and software, right? I mean, they're really fundamentally different business models. And even though we did towards the end actually build a SaaS, you know, sort of a SaaS type model, but it was still education different. And, you know, I had an opportunity to go work for this super early stage company, you know, pre revenue and,
+
+There are lots of different things about the business that I had built previously and software. I mean, they're really fundamentally different business models. And even though we didn't, towards the end, actually build a SaaS, sort of a SaaS-type model, but it was still education, different. And I had an opportunity to go work for this super early-stage company, pre-revenue.
+
+I remember telling my wife actually, and man, she gives me a hard time about this, where it's great. She says these words back to me a lot, now that I have sort of been through the wringer, pun intended. But as I was evaluating the opportunity, thought, okay, well, I built a business here in the Southeast, and it's successful and all that sort of stuff, but San Francisco Silicon Valley is the real deal.
+
+I telling my wife actually, and man she gives me a hard time about this, which is great. She says it back to me a lot. Now that I've been through the wringer, if I'm intended. But as I was evaluating the opportunity, thought, well I built a business here in the southeast and it's successful and all that sort of stuff, but San Francisco Silicon Valley is the real deal and I want to see if I can go play in the major leagues. Which isn't necessarily untrue.
+
+and I want to see if I can go play in the major leagues, which isn't necessarily untrue in many ways, right? With like Venture Month, it's just a different, it is a different game out there, right? And yeah, so I did that. And then you realize, okay, well, it just is continuing to go through the onion, right? Because I started this early stage startup and then it's like, okay, well, can I...
+
+In-person participant 1 (56:35.987)
+You know, like Venture Month, know, it's just a different, it is a different game. And yeah, so I did that, you know, and so, and then you realize, okay, well there, it just is continuing to go through Onion, right? Because I started this early to do startup and then it's like, okay, well, can I, you know, survive through these different phases of scale in the startup, right? Because people who do really...
+
+you know, survive through these different phases of scale in the startup, right? Because people who do really early stage stuff, you know, aren't necessarily the right fit for later stage stuff is the company becomes more successful, right? Like, can I survive that? You know, can I, do I have the ability to make these transitions, you know, sort of from maker to manager, you know, to whatever, right? To learn new skillsets, to do all of this remotely, you know? And, and I think I just,
+
+stage stuff aren't necessarily the right fit for the later stage stuff because the company becomes more successful, right? Can I survive that? Do I have the ability to make these transitions from maker to manager to whatever, right? To learn new skill sets, to do all of this remotely. I think I just realized that the...
+
+realized that the, when I looked back on all that experience, I mean, I guess to summarize all that, I would say, you I had some unbelievable opportunities, you know, even for a certain time period to report to the board, you know, or to have, you know, some level of board accountability, you know, and to grow a significant amount of revenue for this company and sort of, you know, all that stuff.
+
+When I looked back on all that experience, I mean, I guess to summarize all that, I would say, I had some unbelievable opportunities, even for a certain time period to report to the board or to have some level of board accountability and to grow a significant amount of revenue for this company and sort of all that stuff.
+
+Studio (57:58.664)
+And I realized the...
+
+I realized, you know, the...
+
+I realized that I had actually already previously accomplished everything that I wanted to accomplish, right? It's just sort of the same thing in a different context. And I started to realize that- So you're saying you're realizing it.
+
+I realized that I had actually already previously accomplished everything that I wanted to accomplish. It's just sort of the same thing in a different context. And I started to realize that...
+
+that that wasn't that different than your previous experience, but you thought that it might be. Exactly. there's, think because there's this mystery of the different contexts of the higher stakes, you know, all these sorts of things, right? Do you think the stakes were actually higher though?
+
+Studio (58:24.517)
+Right. Exactly. And there's, think, because there's this mystery of the different context of the higher stakes of, you know, all these sorts of things, right?
+
+Studio (58:39.827)
+In terms of money, they were way higher. There's a lot more money. Yeah, that makes sense. It raises the stakes a lot. And that's a very real thing. like, well, if people are putting a lot more money in and the ability to make a lot more money if there's some sort of outcome is pretty significant. And so I would say that was a material difference just in terms of if you become a unicorn.
+
+In terms of money, they were way higher. There's a lot more money There's a lot more Yeah, that makes sense. know, and the... Which raises the stakes for sure. It raises the stakes a lot, you know, and that's a very real thing, right? It's like, okay, I mean, there is, you know, it's like, okay, well, you know, people are putting a lot more money in and the ability to make a lot more money if there's some sort of outcome, it's pretty significant. And so I would say that was like a material, you know, that was a material difference just in terms of, you know, if you become a unicorn.
+
+you know, that could be a really big deal.
+
+Yeah.
+
+Yes.
+
+Studio (59:15.795)
+But I mentioned this, okay, so there are two things actually that come to mind. So one is that I saw these, I saw people around me who were deeper and deeper in the inner ring. And I think at this point I had a little bit more of an ability to be objective about that.
+
+But I mentioned this, okay, so there are two things actually that come to mind. So one is that I saw these, I saw people around me who were deeper and deeper in the inner ring. I think at this point I had a little.
+
+to be objective about that. And you're even saying not just at the company, but also in the ecosystem. In the ecosystem. Investors, board members, et cetera. And I realize they're still chasing something. Everyone's still chasing. And people where it's like, I don't quite understand why you're still chasing.
+
+In the ecosystem investors, you know board members, etc and I Realize they're still chasing something right? It's sort of this, you know Everyone's still chasing and and people where it's like I don't I don't quite understand Why? You're still chasing Chasing this stuff, right? If you've yeah if you've if you've sort of arrived and so there's this interesting
+
+chasing anything right if yeah if you've if you've sort of arrived and so there's this interesting there's this interesting realization that actually came to how I was talking with a friend of mine who is a marketing leader in Silicon Valley and they were talking about someone they knew the very successful company and
+
+Studio (01:00:12.179)
+There's this interesting realization and actually came to head. was talking with a friend of mine who is a marketing leader in Silicon Valley and they were talking about someone they knew at a very successful company. And, you know, I said, I was trying to figure out, know, do you think they'll get acquired? Do you think they'll continue to raise more money? Do you think they'll try to go public? And, you know, they were saying, you know, I think that really like,
+
+I was trying to figure out, do you think they'll get acquired? Do you think they'll continue to raise more money? Do you think they'll try to go public? And they were saying, I think that really the leadership really just wants to win.
+
+They just, the leadership really just wants to win. and, and I said, you know, what, does that mean? You know, is like, is there a material or, or sorry, like a tactical, tangible like definition of that? And he said, I don't think there is, you know, and so you just sort of keep pursuing, you know, you sort of stay in the state of pursuit. Anyways, sort of realized that. And then I listened to this podcast, actually it's, that's what I pulled up on my phone.
+
+And I said, you know, what is that? Yeah. Right. Is there a material or sorry, like a tactical, tangible definition of that? he said, I don't think there is. You know, and so you just sort of keep pursuing, you you sort of stay in the state of pursuit. Anyways, sort of realized that. And then I listened to this podcast, actually, that's what I pulled up on my phone. So.
+
+So the Knowledge Project, Shane Parrish, who's the guy behind the mental model stuff, which we'll talk about. Really great podcast. And this is an older one, it's from 2024, but the name of the podcast episode is Get Rich, Stay Rich, and the guest is Morgan Housel, okay? And.
+
+In-person participant 1 (01:01:12.211)
+the knowledge project, Shane Parrish, who's the guy behind the mental model stuff that we're talking about. Really great podcast. And this is an older one, it's from 2024, but the name of the podcast episode is Get Rich, Stay Rich, and the guest is Morgan Housel.
+
+In-person participant 1 (01:01:35.548)
+I don't think I'm in the inner ring because I don't know who that is. I didn't either. Okay. I'm ready. I just mentioned it because we can put it in the show notes. AI will make that easier. Smart. But it's a great episode and Morgan Housel seems like a very smart guy. Anyways, the episode's about the difference between becoming wealthy and staying wealthy and how those are two very different skill sets, which is really interesting. But he...
+
+I didn't either. It's just completely random. I just mentioned it because we can put it in the show notes and the AI will make that easier. Transcribe it, yeah. But it's a great episode and Morgan Housel seems like a very smart guy. Anyways, the episode's about the difference between becoming wealthy and staying wealthy and how those are like two very different skill sets, which is really interesting. But he makes this point, he asks the...
+
+He makes this point, asks the host, this is going, I mean 2024 and I haven't listened to it in a while, but he asked the host, you know, why do people want to make money? Why do people even want to be wealthy? Right? Which again, if we go back to the inner ring and why do you want to pursue the inner ring? You know, part of it is because you want to feel important. You to feel a sense of belonging. You want to be in that social circle. You want to have more influence.
+
+he asks the host, this is going, I mean, 2024, and I haven't listened to it in a while, but he asked the host, you know, why do people want to make money? Why do people even want to be wealthy? Right? Which again, if we go back to the inner ring and why do you want to pursue the inner ring? You know, part of it is because you want to feel important. You want to feel a sense of belonging. You want to be in that social circle. You want to have more influence. You want your work to matter, et cetera. And then there's the structural component of, well, you can make more money, right?
+
+et cetera. And then there's the structural component of, you can make more money, right? And it's career advancement as part of playing the politics of he said, I've talked to a lot of people about why are you pursuing, why do you want to be rich? And it's interesting. It kind of goes back to that.
+
+Studio (01:02:35.987)
+and it's career advancement, you know, as part of playing the politics of the inner ring. And he said, you know, I've talked to a lot of people about, you know, why are you pursuing, why do you want to be rich? You know, and it's interesting, it kind of goes back to that, like, you you want to win, like, what does winning mean, right? What does being rich even mean? You know, and that's actually kind of a difficult question to answer, right? I want to...
+
+What is being rich even mean? And that's actually kind of a difficult question to answer. I don't think a lot of people in our sphere would say my goal in life is to be rich. But we are all pursuing professional success. And he just said it so simply. He the majority of people that he talked to said the whole reason that they want more money
+
+You know, I don't think a lot of people in our sphere would say like, my goal in life is to be rich, right? But we are all pursuing professional success, right? And he just said it so simply, said, you know, the majority of people that he talked to said, the whole reason that they want more money is so that they can essentially buy more time to spend with the people that they love. Right? He's like, that's...
+
+is so that they can essentially buy more time to spend with the people that they love. Yeah, I was going to say freedom. Yeah, freedom, right? Because there's a perception out there that it's, well, clearly it's possessions, material possessions, or maybe experiences or something. But the one that I hear the most is freedom. Yep. To do what I want with my days, spend more time with people that I like, you know, et cetera. Totally. And I think...
+
+That's freedom, right?
+
+Studio (01:03:54.365)
+Totally, totally. And I think...
+
+Well, I to say, I said I was going to give an abbreviated version, since we didn't really talk about that angle on the first two shows, this is open to your point. Extended edition here. Extended edition. I think I realized that when I heard that, I don't think, I mean, I really took it to heart initially and I thought more and more about it. And I think I realized that the fallacy of the, there are two major things that, as I reflect on that, I think about.
+
+All that to say, I said I was gonna give an abbreviated version, but since we didn't really talk about that angle on the first two shows, so this is open territory, extended edition, I think I realized that when I heard that, I don't think, I mean, I really took it to heart initially and I thought more and more about it. And I think I realized that the fallacy of the, there are two major things that, as I reflect on that, I think about.
+
+Studio (01:04:32.903)
+fallacy of the inner ring is that there is an end to it. There is a destination. And so you stay in that constant state of pursuit because you pierce through one layer of the onion and then you realize there's another and then you realize there's another. And that really is never-ending.
+
+fallacy of the inner ring is that there is an end to it. You know, that there is a destination. You know? Sure. And so you stay in that constant state of pursuit because you, you know, pierce through one layer of the onion and then you realize there's another and then you realize there's another. And that really is never-ending.
+
+Right. But think if you're, I think most people that are on that path, if you're honest with yourself, if they're honest with themselves, they don't want it to end. Totally. Totally. I agree, but I'm interested in your, why do you think that is?
+
+Totally, totally. I agree, but I'm interested in your, why do you think that is?
+
+Because I think when you do it long enough, like you like it. You like the journey. You like the, you like the game. Exactly. Right. Like, cause I don't, let's just use professional sports as an example. I don't think there's many professional athletes that retire and don't feel like the glory days were when they were playing. When were they were getting up early, training hard, working hard.
+
+Studio (01:05:20.955)
+It's a game, sure. You like the game exactly. Yep.
+
+Studio (01:05:38.557)
+Hmm. Yep.
+
+on a playoff or on whatever. now that they have, depending on how they manage their money, let's say this is an athlete that did a good job managing their money. Now they have complete freedom. Let's say this is like a really top tier athlete that never has to work again. So they have complete freedom now, do whatever they want with their time, spend as much time as they want with their family and sleep in, not train at all, do whatever they want with their body.
+
+depending on how they manage their money. Let's say this was an athlete that did a good job managing their money. Now they have complete freedom. Let's say this was like a really tough...
+
+freedom now.
+
+Studio (01:06:10.515)
+Okay.
+
+I think all of them see the glory years as the time they were training, preparing, et cetera. A couple of things there. I love that analogy, example, analogy. you use the phrase, let's say this is a top tier elite athlete, right? There are so many inner rings on the way to that. Yeah, for sure. Right? And then to your point,
+
+A couple things there, I love that analogy, example analogy, because you use the phrase, let's say this is a top tier elite athlete, right? There are so many inner rings on the way to that position, right? And then to your point,
+
+Let's say you make it to whatever the perceived like deepest inner ring is where you're super successful. You've had an objectively awesome career, which is so few, you know, so few, you know, athletes. And then you realize like, the glory days were actually when I was trying to pierce through the different, you know, layers of the onion. think I'm going to go a step deeper into that. I mean, this is on a very personal level, having been on some version of that journey myself.
+
+let's say you make it to whatever the perceived deepest inner ring is where you're super successful, you've had an objectively awesome career, which is so few athletes. And then you realize, the glory days were actually when I was trying to pierce through the different layers of the onion. I think I'm gonna go a step deeper into that. I mean, this is...
+
+In-person participant 1 (01:07:08.815)
+on a very personal level, having been on some version of that journey myself, the other reason that the game, that game or that pursuit is so appealing is that it's actually easier than...
+
+The other reason that the game, that game or that pursuit is so appealing is that it's actually easier than...
+
+doing the hard work of investing in the real relationships that are the reason you say you're doing it. So for example, I'm working really hard. I mean, and this deeply, this is something that I have processed a lot really over the last couple of years is,
+
+doing the hard work of investing in the real relationships that are the reason you say that you're doing it. So for example, right, like I'm working really hard, you know, I mean, and this is deeply, you know, this is, this is something that I have processed a lot really, you know, over the last couple of years is when I joined that startup pre-revenue, I really, I did a lot of homework to understand if there was a possible outcome. mean, I knew it was risky, right?
+
+when I joined that startup pre-revenue, really, I did a lot of homework to understand if there was a possible outcome. I mean, I knew it was risky, right? But the further we went in, you know, it like, okay, we sort of made it past these stages where it's like, well, you know, half the startups don't get there, 80 % don't get there, 90 % don't get there, 25 % don't get there, right? And so the likelihood of some future outcome becomes increasingly real.
+
+Studio (01:07:58.899)
+But the further we went in, you know, it was like, okay, we sort of made it past these stages where it's like, well, you know, half of startups don't get there, 80 % don't get there, 90 % don't get there, 95 % don't get there, right? And so the likelihood of some future outcome becomes increasingly, increasingly real. And so when we think about, you know, the inner ring sort of breaking your heart, I definitely went through that in that I really wanted that outcome because
+
+And so when we think about, you know, the inner ring sort of breaking your heart, I definitely went through that in that I really wanted that outcome because I wanted freedom, you know, or so that that's the story that I myself so that I can spend more time with my family and all that sort of stuff. But then I realized that, it's actually way easier to go to work and grind it out because I have, you know, I'm sort of...
+
+I wanted freedom, or so that's the story that I told myself so that I could spend more time with my family and all that sort of stuff. But then I realized that, it's actually way easier to go to work and grind it out because I have, I'm sort of, despite all the other factors that go into this, mean, work is hard and figuring stuff out is hard and politics are hard and all these things that make these things really difficult, right?
+
+despite all the other factors that go into this, mean, work is hard, figuring stuff out is hard, and politics are hard, and all these things that make these things really difficult, But to your point about the athlete, it's like, you take all of that away. And it's like, well, actually, spending time with the people you love and building those deep relationships is hard.
+
+But to your point about the athlete, it's like, okay, you take all of that away. And it's like, well, actually spending time with a PP you love and building those deep relationships is hard, you know, and takes a lot of investment and is emotionally exhausting. And so sometimes it's like, well, it's actually easier to just stay in this place where I'm really familiar and grinding it out, you know, in a professional environment and getting better.
+
+In-person participant 1 (01:09:10.971)
+you know, and takes a lot of investment and is emotionally exhausting. so sometimes it's like, well, it's actually easier to just stay in this place where I'm really.
+
+you know, in a professional environment and getting better, you know, what I'm doing and adding skills and increasing the likelihood of some future outcome, you know, but you, the, the reason that you say that you're doing that, often is the thing that you, when you actually get that, you're like, this is different. Right. so this was, I don't remember where I heard this, but I think it was in the context of fitness.
+
+you know, what I'm doing and adding skills and increasing the likelihood of some future outcome, you know, but you, the, the reason that you say that you're doing that, often is the thing that you, when you actually get that, you're like, this is different than I thought, you know?
+
+In-person participant 1 (01:09:51.412)
+and like fitness professionals. And it was so interesting because the conversation was around discipline, right? Because I think for most people like, wow, like that, look how disciplined that person is. go to the gym every day or they do, you know, whatever. and, and the, person that was speaking, I think they were speaking to trainers or people that were really into fitness and they were saying,
+
+And it was so interesting.
+
+Studio (01:09:58.684)
+Right?
+
+Studio (01:10:02.835)
+discipline that person as they go to the gym.
+
+Studio (01:10:08.515)
+And the person that was speaking, I think they were speaking to trainers, or people that were really into fitness. And they were saying to this group, you're not that disciplined, actually, because you love doing that. You love it. Discipline is
+
+to this group, you're not that disciplined, actually, because you love doing that. You do it because you love it. Discipline is doing the things over and over again that you don't love. Right, right, right. This is your job, this is what you love, like this is your thing. There's actually not much of a discipline thing here, you're just doing it because you love it. I think that can be true with the startup thing or the work thing, is from the outside, like, wow, like look how successful or whatever, it's like.
+
+Right like you love going to the gym, you know for an hour and a half or two hours Yeah Wow Wow
+
+Studio (01:10:47.891)
+It's like, if you're just doing something that you really love, that's not actually like, there's not actually like a discipline as part of that. Totally.
+
+If you're just doing something that you really love, there's not actually a lot of discipline as part of that. I think a lot of the discipline, at least for me, is the context switching between working and being a parent, or between working and being a husband. That's way harder than quote being disciplined, building a company, or whatever you do at work.
+
+Hmm
+
+Yep.
+
+Yep. So much harder.
+
+Studio (01:11:17.863)
+Totally, totally.
+
+Totally. So I thought that was really interesting because I think from the outside, especially when it's like an area that's not your thing, maybe it looks like, look how disciplined they are. it's like, no, they're not. That's just what they do. They love doing that. Totally. I was thinking about this recently. There's a lot of literature about love languages, right? Mm-hmm. How do you speak to someone in their love language? Yeah. Right.
+
+from the outside, especially when it's like an area that's not your thing. Maybe it looks like...
+
+That's just what they do. love doing Totally. Totally. I was thinking about this recently. You know, there's a lot of literature about love languages, right? And so like, how do you, you know, speak to someone in their love language? It could be gift giving, could be quality time, it could be, you know, whatever. And so if you really try to buckle down and, and be disciplined about applying that to your wife and children,
+
+Right. And so if you really try to buckle down and be disciplined about applying that to your wife and children, for me, that's very hard because it doesn't come naturally. Right. It requires a lot of dedicated time and thought. Right. You know, and it's harder than work. Right. It's harder than going to work. So.
+
+Studio (01:11:56.647)
+For me, that's very hard because it doesn't come naturally. It requires a lot of dedicated time and thought, you know, and, it's harder than work. It's harder than going to work. so, okay. So I want to steer the conversation towards like what the inner ring means with, with AI and FOMO today, but one more point. So I said two things as I reflected on it. One was.
+
+Okay, so I want to steer the conversation towards like what the inner ring means with AI and FOMO today, but one more point. So I said two things as I reflected on it. One was there's no end to it. You even if you what you want, you know, it's sort of, you know, you still are more comfortable in the pursuit, you know, than you are necessarily even getting what you want. But the other one is that it is the easiest thing in the world.
+
+there's no end to it, and even if you get what you want, you still are more comfortable in the pursuit than you are necessarily even getting what you want. But the other one is that it is the easiest thing in the world not to define enough.
+
+not to define enough, right? And you almost want to avoid that question if you are very comfortable in the pursuit, know, because then there's sort of a stopping point and then you have to deal with, okay, well, what does that actually mean for my life? And I've actually thought a lot about you in this situation because...
+
+And you almost want to avoid that question if you are very comfortable in the pursuit, you know, because, because then there's sort of a stopping point and then you have to deal with, okay, well, what does that actually mean for my life? and I've actually thought a lot about you in this situation because you decided I want to start, this is, know, you were an executive at a company, C level executive and you could have gotten, went and you could have gotten another
+
+In-person participant 1 (01:13:08.913)
+you decided I want to start, you were an executive at a company, C-level executive, and you could have gotten another similar job, whatever, and sort of continued down that path. But I remember you saying, yeah, I wanted to start a business, and that meant that we had to sort of make sacrifices, and so we just sort of drew lines and said, this is enough, and this is how we're going to live our life.
+
+you know, similar job, you know, whatever, and sort of continued down that path. But I remember you saying, yeah, I mean, I wanted to start a business and that mean meant that we had to sort of make sacrifices. And so we just sort of drew lines and said like, this is enough and this is, you know, this is how we're going to live our life. And we're going to at least try this for a while, you know? And I respected that so much because it was just, you sort of drew those lines and you were like, this is it, you know? And, I don't know that, that really,
+
+please try this for a while. And I respected that so much because it was just, you sort of drew those lines and you were like, this is it. I don't know, that really, it made me think a lot about that and I think my, I think the takeaway on that second point about enough is that I think the other lie of.
+
+It made me think a lot about that. And I think my, I think the takeaway on that second point about enough is that I think the other lie of the pursuit of the inner ring and how it can break your heart is that you say that you're working towards something you don't define enough. in most situations, you can actually have what you want or some form of it immediately by making different decisions. Right.
+
+the pursuit of the inner ring and how it can break your heart is that you say that you're working towards something you don't define enough and in most situations you can actually have what you want or some form of it immediately by making different decisions. What do you mean by that?
+
+Studio (01:14:21.879)
+So like Morgan Housel says, okay, the reason that people say they want money or, you like he says, they want to spend more time with the people they love. You, right. You said, I'm, you know, I want, I want more, I'm, pursuing this because I want more freedom. Right. And for me, was like, okay, well, if this startup that I'm a part of has an outcome, it'll give me professional freedom. I can spend more time with my family, you know, fill in the blanket was sort of all the things. Right. And
+
+Like Morgan Hazel says, the reason that people say they want money, or he says they want to spend more time with people like that. They could just do that now.
+
+pursuing this because I want more freedom. And for me it was like, okay, well if this startup that I'm part of has an outcome, it'll give me professional freedom, I can spend more time with my family, know, fall on the bike, it sort of all the things, right? And in reality, like you can just make life decisions where you get, whatever, you're not necessarily gonna retire immediately. But it's like, okay, you you can make life decisions and say I'm gonna spend more time with
+
+In reality, like you can just make life decisions where you get, know, it's whatever, you're not necessarily going to retire immediately, right? But it's like, okay, well, you know, you can make life decisions and say, I'm going to spend more time with my family right now. You know, I'm going to have more freedom right now. That means probably like things changing your life structurally. go readjust your budget. do whatever.
+
+right now. I'm going to have more freedom right now. That means probably like things changing your life structurally, you go readjust your budget, you do whatever. And don't start a business if you want to spend more time with your family. Just saying. That's a whole episode. But I think that's the other thing, right? If you really want that, you can make changes and sort of get closer to that.
+
+Studio (01:15:20.659)
+That's a whole episode. But I think that's the other thing, right? It's like, well, if you really want that, you can make changes and sort of get closer to that, you know. Almost any scenario. Almost any scenario.
+
+Yeah, almost any scenario, right? There's a, there's a few more extreme ones with probably like professional sports or like being in the military or something. But, for most people, yeah. And most people that, that, I've interacted with it is that there's the, we don't want to define too tightly define the inner circle, the pursuit of the inner circle or what the point is at all. But we do like to talk about.
+
+Totally, totally.
+
+In-person participant 1 (01:16:00.34)
+Well, like things will be different like in a couple of years or two or three years. then so often. Yeah. Yeah. Do you remember the guy that we interviewed on the previous podcast that we used to co-host? Do you remember the guy that we interviewed who was he worked at Pixar? Yeah. Or was it DreamWorks? One of the big studios, one of the big studios, Brian Schwartz. Brian Schwartz. Yeah. Yes. Great memory.
+
+Totally. So often. Do you remember the guy that we interviewed on the previous podcast that we used to co-host? Do you remember the guy that we interviewed who was, he worked at Pixar? Yeah. Or was it DreamWorks? One of the big studios. One of the big studios. Brian. Schwartz, Brian Schwartz. Yeah. Yes, great memory. You didn't have to look it up on your phone. And I'm so weak.
+
+You didn't have to look it up on your phone. I'm so weak. I invited him, so I'm impressed that you remembered. Do you remember he said he was super successful. He worked at one of the big studios, brought several major movies to market. Kung Fu Panda, that sort of... Yeah, there's a couple and several really big ones. huge ones. And then he went and...
+
+that's right, okay. Do you remember he said, he was super successful, he worked at one of the big studios, brought several major movies to market. Kung Fu Panda, you know, that sort of.
+
+A couple, yeah, huge ones. And then he went and ran like the front end of Expedia for a while. I mean, just, you know, which is like a crazy shift. And so he had a career counselor mentor that he was talking to and he said, you know, my goal is like, okay, what do you want to accomplish? And he said, you know, my goal is to be the CEO of a fortune 500 or fortune 1000 company before I'm 30.
+
+In-person participant 1 (01:16:59.83)
+Ran like the front end of Expedia. I mean just yeah crazy, right? and so he had a Career counselor mentor that he was talking to and he said, you my goal is that okay? What do you want to accomplish? he said, you know, my goal is to be the CEO of a fortune 500 or fortune Yeah, before I'm 30. Mm-hmm. Right. think was before. Yeah. Yeah You have a better memory of this, but yes, it's coming back
+
+Right? I think it was before I'm 30. And the career counselor just said, why? Like what legitimately, like, why do you want to do that? You know, what's the, what's the, what are the driving factors? And it just, it just undid him because he couldn't answer. He didn't actually have an answer. Such a question. Totally.
+
+The career counselor just said, wow. Like what, yeah, right. why would you want to do that? You know, what's the, what's the, what are the driving factors? And it just, it just undid him because he couldn't answer. didn't actually have an answer. Which is such a wise question. Cause mine would be, no, you don't. But yeah, that's a, it's a way better as a question.
+
+Totally. Yeah. And I believe that after reflecting on it, he came back to the guy and he said, you know, I don't really have a good reason for this. the guy said, well, then maybe you shouldn't pursue that if you don't have a good reason. Cause it's not like that's a neutral cost pursuit, you know, in your life. so anyways, that's, that's a good example. Okay. FOMO and AI and the inner ring.
+
+I believe that after reflecting on it, he came back to the guy and he said, you know, I don't really have a good reason for this. guy said, well, then maybe you shouldn't pursue that if you don't have a good reason because it's not like that's a neutral cost pursuit in your life. So anyways, that's a good example. OK, FOMO and AI and the
+
+In-person participant 1 (01:18:22.835)
+It's time for the AI part. I think I can tie this into AI a little bit, but I was not aware of this theorem, which I texted you. And I will share, and I think this is a perfect segue into the AI stuff. I didn't know this was a thing, and we didn't pre-discuss, so this will be fun.
+
+Yes. And let anything else to say on the interring?
+
+Studio (01:18:36.14)
+yes, this is great.
+
+Yeah, okay, are you gonna share your screen? This is such a great segue.
+
+Studio (01:18:52.339)
+Doing it live, this is great.
+
+This is a screenshot I took from Google or Gemini or something where I had to look this thing up because it came across, yeah, came across, I don't know how I saw it originally, but I had to Google it because I didn't know what it was. So this is called the Pi theory, performance image exposure. I'll just read the headline. The Pi theory explains career success through three key elements, performance,
+
+Same thing.
+
+Studio (01:19:14.775)
+Let's read the headline. The Pi Theory explains career success through three key elements. Performance, image, and exposure. And listen to these percentages. Performance, 10%. Image, 30%. Exposure, 60%. And then performance, think, is pretty clear what that means. Image means your personal brand and how colleagues perceive your professionalism.
+
+Image and exposure. And listen to these percentages. Performance, 10%. Image, 30%. Exposure, 60%. And then performance, think is pretty clear what that means. Image means your personal brand and how colleagues perceive your professionalism, sorry, reliability and alignment with company values. And then exposure, if you don't know what that means.
+
+Exposure, if you don't know what that means, visibility to key decision makers through networking, showcasing achievements and strategic self-promotion. Again, the percentage breakdown. Exposure, 60%, image, 30%, performance, 10%, which the definition of performance is your ability to deliver results and meet job expectations. This is baseline for career progression.
+
+visibility to key decision makers through networking, showcasing achievements and strategic self-promotion. Again, the percentage breakdown, exposure, 60 % image, 30 % performance, 10%, which the definition of performance, your ability to deliver results and meet job expectations. This is baseline for career progression.
+
+Well, reactions to that.
+
+Studio (01:20:15.449)
+It is most, there are absolutely exceptions to this. I have two thoughts. There are absolutely exceptions to this, but by and large, I have observed this to be the general breakdown that I have seen. The general breakdown of, you know,
+
+It is.
+
+There are absolutely exceptions to this. I have two thoughts. There are exceptions to this, but by and large, I have observed this to be the general breakdown that I have seen. The general breakdown of, you know,
+
+what comprises the percentage ingredients that go into career growth or success or whatever you want to call it, right? And there are a couple reasons for that, I think. Some good and some bad and some just reality. So one of them is very simple. Executives are super busy. Executives or people high up in an organization are super, super busy.
+
+what comprises the percentage ingredients that go into career growth or success or whatever you want to call it, right? And there are a couple reasons for that, I think. Some good and some bad. And some just reality. So one of them is very simple. Executives are super busy. Executives or people high up in an organization are super, super busy.
+
+In-person participant 1 (01:21:12.307)
+And so they just, you know, there's more happening and more areas of responsibility they have that they can like practically give the 100 % of their attention to in a given period of time.
+
+And so they just, you know, there's more happening and more areas of responsibility they have that they can like practically give the, when you're 100 % of their attention to in a given period of time. And so on a very practical nature, just getting more, if you figure out a way to get more exposure to those people, you're in their orbit more. And so, and that tends to build trust. so,
+
+And so on a very practical nature, just getting more, if you figure out a way to get more exposure to those people, you're in their orbit more. And so, and that tends to build trust. And so if there's something that needs to be done or someone who needs to be recommended for a key project or whatever, then they're just more likely to reach for you because it's a less risky, you know, it's a less risky option.
+
+If there's something that needs to be done or someone who needs to be recommended for a key project or whatever, then they're just more likely to reach for you because it's a less risky, you know, it's a less risky option. You know, so that's one. I think the other, the, so let's say that's on like the very practical, I think this is just generally true, you know, side of things. And there can, you know, there can be negative things about that. There can be,
+
+You know, so that's one. I think the other, the, so let's say that's on like the very practical, I think this is just generally true, you know, side of things. And there can be negative things about that. can be negative manifestations of that. There can be nepotism. can be, you know, the social aspect with your friends, you know, where it's not a true meritocracy, et cetera. The middle ground is where I would say,
+
+Studio (01:22:08.151)
+There can be negative manifestations of that. There can be nepotism. There can be the social aspect with your friends where it's not a true meritocracy, et cetera. The middle ground is where I would say, if you assume that within a certain threshold, people within a given discipline have somewhat
+
+If you assume that within a certain threshold, people within a given discipline have somewhat fungible skill sets, then exposure really does make a huge difference. Because...
+
+fungible skill sets.
+
+then exposure really does make a huge difference, right? Because, you know, again, this is not.
+
+you know, again, this is not. So like performance being equal, roughly same skill sets, right? What's the next determining factor? Exposure. Right, it's exposure, right? And so I would say that's why, I would say that's a reason that I think mathematically it's probably true that performance may be much lower on the scale. You know, if you assume that, you know, at the margin, that skill sets are fungible and performance, you know, sort of equal across like a given group of people.
+
+Studio (01:22:51.347)
+Right.
+
+Right, it's exposure, right? And so I would say that's why, I would say that's a reason that I think mathematically it's probably true that performance may be much lower on the scale, if you assume that at the margin that skill sets are fungible and performance is sort of equal across a given group of people. And so I would say that is,
+
+Right. so I would say that is, you know, you know, that is again, just like a very practical thing, but I also think that, you know, skill sets probably very much more widely in practice. Yeah. Than, you know, skill sets are even more widely, but I think also the executive, I don't know. But, but, I do think they vary more widely for sure.
+
+That is, again, just like a very practical thing, but I also think that skillsets probably vary much more widely in practice than, skillsets vary more widely, but I think also the executive, I don't know.
+
+In-person participant 1 (01:23:45.544)
+But the executive knowledge of the skill sets makes it look way flatter than it is. Yes, exactly. Yeah, that's what I was going to say. You sort of think about job titles as fungible skill sets. Sure, right. Is necessarily true in reality? I think.
+
+Yes, exactly. Yeah, that's what I was gonna say, is that sort of a, you sort of think about job titles as fungible skill sets, and that's not necessarily true in reality. And I think on the other end of the spectrum, I think what is challenging for a lot of people is when there is a very clear disparity in skill sets and...
+
+you know, the other, on sort of the other end of the spectrum, I think what is challenging for a lot of people is when there is a very clear disparity in skill sets and that doesn't make the difference that it should and exposure makes more of a difference. And that's what's really, really difficult. Because it's like, well, if this person is more talented or better suited for the project, they should do that.
+
+that doesn't make the difference that it should and exposure makes more of a difference. And that's what really, that's what's really, really difficult, right? Cause it's like, well, if this person is more talented or better suited for the project, they should do that. And, you know, and a lot of times the practical reality is that someone with more exposure or more, you know, who is set about creating a different image for themselves, you know, actually just.
+
+you know, and a lot of times the practical reality is that someone with more exposure or more, you know, who is set about creating a different image for themselves, you know, actually just, you know, has more career progression. think that the, this is so, so difficult because this is the, if you just, in any organization, I think this is what the natural state of an organization tend towards, tends towards if,
+
+Studio (01:24:47.239)
+you know, has more career progression. think that the, this is so, so difficult because this is the, if you just, in any organization, I think this is what the natural state of an organization tend towards, tends towards if you don't, if you're not really intentional about the culture. And so I think that's the, and it is very, very difficult to build a culture that sort of minimizes the pie.
+
+you don't, if you're not really intentional about the culture. And so I think that's the, and it is very, very difficult to build a culture that sort of minimizes the pie theory playing out in reality and creates much more balanced, you know, percentages. So here's my thought on it. We haven't talked about it before the show. I see from an observability standpoint, I see it.
+
+theory playing out in reality and creates much more balanced percentages.
+
+Studio (01:25:28.306)
+you
+
+In-person participant 1 (01:25:34.1)
+Even with the looking Sure, but just a general I'm gonna call it observability and that let's post analyze things and be like yeah, that seems like the right breakdown I think it's extremely and the problem with the internet. So I think it's extremely I think it's extremely destructive for like oh well if this is true, this is what I this is a percentage of
+
+Explain that. When you say observability, what do mean? Like your observations?
+
+Studio (01:25:57.619)
+extremely destructive for like, well if this is true this is why this is a percentage of
+
+time I need to allocate to each of these things or how I need to think about it. I think that's a big problem for a lot of people. So I want to be successful. say I'm already successful and I'm looking back and like, can see how this would be true. But say I want to be successful and I'm going to like really, performance doesn't really matter. is the next or exposure is the most important thing and then image. I think that's a problem. I totally agree. And I'm relating it to the inner ring.
+
+I think that's a big problem. You mean? So I want to be successful. So say I'm already successful and I'm looking back and I can see how this would be true. say I want to be successful.
+
+Studio (01:26:21.843)
+...
+
+Studio (01:26:27.107)
+I totally agree.
+
+In-person participant 1 (01:26:33.895)
+First off, the other hard thing with frameworks that I've learned, especially when somebody's adopted this framework and this is how they think about life, is sometimes the percentages are wrong and sometimes the whole framework is wrong. We're gonna talk about this with mental models later. So I think the whole framework is wrong. One image I hate, I think it's a horrible word, I think a better word would be character. And then just making sure that you're...
+
+First up, the other hard thing with frameworks that I've learned, especially when somebody's adopted this framework,
+
+is sometimes the percentages are wrong and sometimes the whole framework is wrong. We're gonna talk about this with mental models later. So I think the whole framework is wrong. One image I hate, I think it's a horrible word, I think a better word would be character. And then just making sure that your actual image is aligned with your character. Because maybe occasionally there's things that get in the way of showing your true character. So great character but rough around the edges. So that might be an image problem but like
+
+actual images aligned with your character. Because like maybe occasionally there's things that get in the way with showing your true character. So like great character, but like rough around the edges. So that might be an image problem, like for more often than not, it's a character problem, right? Of who you are. So I would switch that out. So call that character. Performance. And I would group character and performance as like the foundation.
+
+So I would switch that out, so-called that character. Performance, you know, a group character and performance as like the foundation. I think they're both really important.
+
+In-person participant 1 (01:27:32.051)
+because think they're both really important. And then I would end up with probably more than 40%, but we could call it 40 % just to make the numbers add up in the current one. And then the exposure thing, yes, because it's like you can build the best thing in the world, you can be the best person in the world, and if nobody knows about it, then the opportunities are going to be missing. So I'm okay with exposure being highly rated. But then how and why you get the exposure I think matters.
+
+exposure thing. Yes.
+
+Studio (01:27:48.391)
+thing in the world. can be the best person in the world.
+
+Studio (01:27:53.535)
+Yep. Totally.
+
+And if it's only through strategic self-promotion, I think that's tough. I think it's tough to have the right performance, mean, the right baseline performance and character and only receive the exposure through strategic self-promotion. I think it is easier to do it right if you just find somebody else that sees the high performance and the right character and is willing to promote you.
+
+think that's tough. I think it's tough to have the right...
+
+the right baseline performance and character and only receive the exposure through strategic self-promotion. I think it's easier to do it right if you just find somebody else that sees the high performance and the right character and has wanted to promote you. I that's easier. I'm not saying you can't do it the other way, but I think that's easier. Yeah. I will tie this directly back to a specific quote that's actually on the wall behind you.
+
+I think that's easier. I'm not saying you can't do it the other way, but I think that's easier.
+
+In-person participant 1 (01:28:37.029)
+I will tie this directly back to a specific quote that's actually on the wall behind you.
+
+the performance aspect, and this is something that we, I'm so glad we came back to this because it's a really core component of, of the speech, but I'll just read it off of the, I'll read it up. Yeah. Yeah, exactly. you will be one of the sound craftsman and other sound craftsman will know it, is something he talks about in the speech where he's like, okay, forget the inner ring. Just go find something that you really love to do.
+
+The performance aspect, and this is something that we, I'm so glad we came back to this because it's a really core component of the speech, but I'll just read it. Yeah. It's in the background, you might not be able to see it. You will be one of the sound craftsmen, another sound craftsman will know it. It's something he talks about in the speech where he's like, okay, forget the inner ring, just go find something that you really love to do and find other people who really love to do.
+
+and find other people who really love to do it. And you'll become a sound craftsman and other sound craftsmen will know it. And one of the results of that will be friendship, right? Which is interesting because if you, that satisfies the sense of belonging and the desire for the sense of belonging that we talked about. But I will say in my experience, and there are so many different ways that this can play out, but I think about this in terms of short game and long game.
+
+You'll become a sound craftsman and other sound craftsmen will know it. And one of the results of that will be friendship, right? Which is interesting because if you, that satisfies the sense of belonging and the desire for the sense of belonging that we talked about. I will say in my experience, and there are so many different ways that this can play out, but.
+
+In-person participant 1 (01:29:39.738)
+I think about this in terms of short game and long game, which is tended to be very true in my professional career. And so what do I mean by short game? If you're playing the short game, you will, the most expedient way to have career progression is actually to apply the pi theory pretty rigorously. Yeah, I agree. Okay.
+
+which is tend to be very true in my professional career. And so what do I mean by short game? If you're playing the short game, will, the most expedient way to have career progression is actually to apply the Pi theory pretty rigorously. Okay. A lot of times the way that you see that play out is someone
+
+A lot of times the way that you see that play out is someone who, one manifestation that I've seen in this, this is actually a hard learning curve in terms of hiring mistakes and looking back on it, is someone who has either rapidly jumped from position to position within a company or has had a pretty short tenure.
+
+One manifestation that I've seen in this, this is actually a hard learning curve in terms of hiring mistakes and looking back on it, is someone who has either rapidly jumped from position to position within a company or has had a pretty short tenure at multiple different companies. So in Silicon Valley world, this would be...
+
+at multiple different companies. So in Silicon Valley world, would be, you sort of see the one year, two months, one year, four months, one year, one month where it's like you hit the vesting cliff, you work your way to get the title that you want, and you sort of move on. And now that I'm saying there's anything, I mean, there could be an argument that's like, okay, you hit your vesting cliff at a bunch of different startups over a 10 year period.
+
+Studio (01:30:38.759)
+You sort of see the one year, two months, one year, four months, one year, one month where it's like you hit the vesting cliff, you work your way to get the title that you want, and you sort of move on. And now that I'm saying there's anything, I mean, there could be an argument that's like, you hit your vesting cliff at a bunch of different startups over a 10 year period, you're diversifying your portfolio. That's a different topic. I think in its worst form, you're applying the Pi theory to essentially
+
+you're diversifying your That's a different topic. I think in its worst form, you're applying the Pi theory to essentially use this framework to accomplish something that maybe or maybe does not have the level of substance that a craftsman may. know what Long game is I want to get really good at something, and I'm actually willing to stick around for a long
+
+you know, this framework to accomplish something that maybe or maybe does not have the level of substance that a craftsman may, you know what I Long game is I wanna get really good at something and I'm actually willing to stick around for a long time in order to build that skillset for the sake of getting really good at something. And, you know, that's...
+
+skill set for the sake of getting really good at something. you know, that's, I haven't done that perfectly, but that's generally been my disposition because I'm really interested in the work and I think that's actually how I've come across some of the most interesting people that I've worked with.
+
+I haven't done that perfectly, but that's generally been my disposition because I'm really interested in the work. And I think that's actually how I've come across some of the most interesting people that I've worked with and ended up on interesting teams because you re like other people will realize. this person's like getting good at this thing that they're interested in doing right. Or at a minimum, like they're very curious about it and they're exploring it on a very deep level and thinking about it. And so, okay, that's the type of person who I want, you know,
+
+In-person participant 1 (01:31:45.616)
+and ended up on interesting teams because other people will realize, this person's getting good at this thing that they're interested in doing. Or at a minimum, they're very curious about it and they're exploring it on a very deep level and thinking about it. And so, okay, that's the type of person who I want solving these types of problems. And so I think the...
+
+solving these types of problems. And so I think the ironic thing is that if you play the long game, it actually inverts this a little bit. And I think if you replace image for character, that's really the critical thing. if you become a craftsman, so let's just invert it and say,
+
+ironic thing is that if you play the long game, it actually inverts this a little bit. And I think if you replace image for character, that's really the critical thing. if you become a craftsman, so let's just invert it and say, you do 60 % on becoming really, really good at something.
+
+do 60 % on becoming like really, really good at something. And then.
+
+And then... And I think craftsman performance and character like intertwined. Totally. Totally agree with that. Yeah, so if we just make that the... if we just say craftsman, right? Yeah, as a base. Over half, let's call it. Yeah. You will eventually get exposure. And I think the reason that is is because the...
+
+Studio (01:32:47.741)
+Totally, totally agree with that. Yeah, so if we just make that the, if we just say craftsman, right? Yeah. Yeah. You will eventually get exposure. And I think the reason that is, is because the, and again, at least in my experience, and I've seen this play out multiple times with myself and other people around.
+
+And again, at least in my experience, and I've seen this play out multiple times with myself and other people around, if you are a person of character who wants to be a really sound craftsman, what that translates to for the people above you in the organization is that you can be trusted. And it is actually surprising.
+
+If you are a person of character who wants to be a really sound craftsman, what that translates to for the people above you in the organization is that you can be trusted. And it is actually surprising, know, and I think, you know, until I was in a position where I was forced to make judgment calls on who I could trust on what level.
+
+You know, and I think, you know, until I was in a position where I was forced to make judgment calls on who I could trust on what level, I didn't really appreciate how challenging it was to find someone who I trusted implicitly. There's a very small number of people. Well, and that's part of the thing. You were mentioning the expediency, like the Pi theory is probably the right thing. But if you're around for long enough, at
+
+I didn't really appreciate how challenging it was to find someone who I trusted implicitly. There's a very small number of people.
+
+In-person participant 1 (01:34:00.532)
+I mean, granted, I've mainly worked at startups and other smaller companies, but you're going to get a shot on something. Yes. Like, just because people are going to leave, things are going to change. I think it would be rare to not get a shot at all if you're somewhere multiple years. Yep. I agree. I agree. Yeah, I do think there's a mentor of mine used to say, you you need to have the courage to like speak up when there's an opportunity. Yeah, that's fair. Yeah. That's a, you can't just live in a hole.
+
+Yes.
+
+Studio (01:34:15.719)
+Yep, I agree, I agree. Now I do think there's a mentor of mine used to say, you you need to have the courage to like speak up when there's an opportunity and there's, you know, that's a, you can't just live in a hole and, know, as a hermit and get really, really good at, you know, sharpening your tool set.
+
+Right. know, as a hermit and get really, really good at, you know, tools. Yeah, yeah, for sure. I do think there are some people that would be craftsmen that are so extreme on the like, yeah, on the hermit mindset that that this is a problem. But but I think there might be more people on the other side. The other extreme. Totally. I actually think there's, you know, one manifestation of this is
+
+Yeah, on the hermit. Right, right.
+
+Studio (01:34:53.427)
+Totally, totally. I actually think there's, you know, one manifestation of this is the staff engineer concept of a job role where you don't climb the traditional ladder, but you're really, really good at something. And I think that there should be more staff type roles across the organization where you don't have to climb the management ladder and, you know, to do the dance, but you can actually just be really, really good at something.
+
+the staff engineer concept of the job role where you don't climb the traditional ladder but you're really, really good at something. And I think that there should be more staff type roles across the organization where you don't have to climb the management ladder and do the dance, but you can actually just be really, really good at something and have influence with that going through the traditional management ladder channel.
+
+and have influence without going through the traditional management ladder channel. Love it. Okay. We were texting a couple weeks ago and in the same day, I messaged you about some AI tool that I found and then you messaged me about it. I can't remember who messaged first.
+
+It's a good one. We were texting a couple weeks ago and in the same day I messaged you about some AI tool that I have and then you messaged me about it. I can't remember who messaged first. I don't know. Might have been you. I don't know. So... We could check but it take too long to go find it.
+
+Right. But we both experienced FOMO, which talking about after the fact was AI FOMO, which was hilarious because let's just say that you messaged me first and I think that's actually how it played out. You messaged me first and I was like, you're like, found this really interesting app, you know? And I was like, you know, I was like, crap, am I like, you know, am I behind? Am I missing this?
+
+In-person participant 1 (01:36:04.711)
+AI FOMO. Let's just say that you messaged me first. I think that's actually how it played out. You messaged me first and I was like, oh, I found this really interesting app. And I was like, oh crap, am I like? Am I behind? Am I behind? Am I missing this?
+
+And then I think I forgot about it and ran across something that I thought was interesting that would be fun to talk about on the show and so I sent you message about it and you later told me as we were talking about prepping for the show that you had this f***ing experience. Which is hilarious because as we were talking about it, like again, well there are people in our world who aren't, you know, they don't work with AI tools every day and they're not experimenting with all this stuff like we are every day.
+
+And then I think I forgot about it and ran across something that I thought was interesting that would be fun to talk about on the show. And so I sent you a message about it. And you later told me, as we were talking about prepping for the show, that you had the same experience, which is hilarious because as we were talking about it, I'm like, okay, well, there are people in our world who aren't, you know, they don't work with AI tools every day and they're not experimenting with all this stuff like we are every day.
+
+And so for them, we're sort of on an inner ring of like the inside of people who are using this every day for their jobs and to do actual work and other stuff. And so the fact that we both felt that was interesting to me. But then it also made me think about how common that probably is for people, especially because AI is moving so quickly. And if you work in tech, there can be a sense of...
+
+And so for them, we're sort of on an inner ring of the inside of people who are using this every day for their jobs and to do actual work and other stuff. And so the fact that we both felt that was interesting to me.
+
+In-person participant 1 (01:37:08.423)
+But it also made me think about how common that probably is for people, especially because AI is moving so quickly. if you work in tech, there can be a sense of, am I getting left behind? What skill sets do I need to build, et cetera. So.
+
+Am I getting left behind? What skill sets do I need to build? You know, et cetera. So I thought it'd be fun for us to just briefly talk about how do you deal with that? How do you, number one, rate your level of AI FOMO anxiety on a scale of one to 10, and then tell us what are just some practical things you do to mitigate that.
+
+I thought it'd be fun for us to just briefly talk about how do you deal with that? How do you, number one, rate your level of AI FOMO anxiety on a scale of one to 10, and then tell us what are just some practical things you do to mitigate that? Yeah, I mean, think FOMO, I don't know if by definition, but I think it comes and goes, right? I think you can end up on two ends of the spectrum.
+
+I think you can end up on two.
+
+One, like nice. Like I found this thing. And I think this happens in a lot of areas. Like if you're really into like indie music or something, like, wow, I found this indie music band and they have like three followers and they're amazing. So I think it can be that where you're like, wow, I found this awesome tool or thing and love their, love the experience, love their perspective, whatever. And then on the opposite side, yeah, like.
+
+Studio (01:38:01.253)
+in it.
+
+Studio (01:38:11.155)
+Mm-hmm.
+
+Studio (01:38:15.517)
+think it can be that, where you're like, wow, I found this awesome tool or thing and love the experience.
+
+And then on the opposite side, like you may text me, I think I was telling you.
+
+You may text me, like I was telling you, there's one client meeting that I was in where I was like, they're talking about some AI tool. I was like, I don't know what that is. Like what is, you know? And then, and then especially for that, since I'm in, you know, doing consulting and kind of in the space, it's like, I'm supposed to know about, I'm supposed to know. I'm supposed to know about these things. I'm not even like specifically, we're not specifically an AI consultant, but, you know, it's becoming that for just about everybody.
+
+You know? And then especially for that, since I'm in.
+
+Studio (01:38:47.241)
+right, you're supposed to be the expert.
+
+Studio (01:38:54.323)
+It's becoming that way just about everybody. Implicitly, you definitely are. data and AI. So yeah, so I think that would be the two extremes.
+
+Impressively, you definitely have. AI, yeah, data and AI. yeah, so I think that would be the two extremes that depending on the hour or day, you can feel like, wow, I found this thing. I think it's amazing, revolutionary versus the other, all in the same day or the same hour. Yeah, yeah, yeah, totally. So what do you do to like, you know...
+
+thing amazing revolutionary
+
+All in the same day, for the same hour. Yeah, yeah, yeah, totally. So what do you do to, you know, when you get that feeling, do you have any strategies personally to sort of say, okay, I'm experiencing FOMO, I need to address this? Yeah.
+
+When you get that feeling, you have any strategies personally to sort of say, okay, I'm experiencing phobia. I need to address this. Yeah. I mean, I think there's two ways to respond to it. One is the natural way. I need to subscribe to more newsletters. need to. I need to.
+
+Studio (01:39:45.939)
+my god, actually you'll just get you're gonna get subscribed to them. How do I end up on all these AI newsletter lists? It's horrible
+
+It's just horrible. Yeah, there are a couple good ones, but there are not very many good ones. the obvious reflex answer is like, I need to spend more time. I need to do more AI searches or spend more time on YouTube or whatever. But I think the real answer is I need to recognize the FOMO.
+
+There are
+
+Studio (01:40:08.935)
+do more AI searches or spend more time on
+
+Studio (01:40:14.579)
+think the real answer is I need to recognize the FOMO. Because if you don't stop and recognize it, then you're absolutely, at for me, you're gonna go down the road of like, well, I just need to do more research or look into this and whatever. think actually recognizing that that's what's happening is a deal. Number one. Probably most important. Then you can choose how you react to it.
+
+Because if you don't stop and recognize it, then you're absolutely, at least for me, are gonna go down the road of like, well, I just need to do more research or look into this and, you know, whatever. Actually recognizing that that's what's happening is a big deal, number one. Probably most important. And then you can choose. Then you can choose how you react to it. And I think there's a couple components, practically, of if it is part of your job, a lot of people it's not.
+
+If it is part of your job, a of people it's not, but it's kind of both our jobs to be at least somewhat in the know. Do you have some systems and processes and ways to keep up with and then make a practical decision of I'm going to modify that system or process? Do you really think that I need to be more informed? Yep. Or?
+
+but it's kind of both part of both of our jobs to be at least somewhat in the new and the know. Like, do you have some systems and processes in place to like keep up with and then make a practical decision of like, I'm going to modify that system or process because I really think that like, I need to be more, you know, informed or more often than not it's
+
+more often than not, it's I have a system in process to kind of stay up to date on this and it's fine. It doesn't need to be adjusted. with the people that I'm around, the conversations that I have and the content.
+
+In-person participant 1 (01:41:19.121)
+I have a system in process to kind of stay up to date on this and it's fine. It doesn't need to be adjusted. Like with the people that I'm around, the conversations that I have and the content that I intake, there's no adjustment necessary, which is typically the answer for me. Yeah. What about you?
+
+Yeah, yeah, totally. I love it. That's helpful. That's helpful
+
+Studio (01:41:45.083)
+I think.
+
+Thanks.
+
+The, think recognizing the FOMO is a big part of it, because I don't think I frame it that way very often, which is probably that pride thing for me. It's like, I don't have FOMO, I work in tech, come on. I think there are two things that I've been doing lately. One, which I told you, I've been studying economics, like core economic principles and trying to apply them to the AI industry, you know, which,
+
+I think recognizing the FOMO is a big part of it because I don't think I frame it that way very often, which is probably that pride thing for me. don't have FOMO. I think there are two things that I've been doing lately. One, which I told you, I've been studying economics, core economic principles and trying to apply them to the AI industry.
+
+Sounds challenging. you go. Okay, Yeah. Okay, yeah.
+
+Studio (01:42:18.067)
+Which is fascinating. I'm using AI to do it. Actually, mean, partially. But it is actually kind of fun. I turned on GPT the other day and asked it about some academic, economic principles around things like commoditization, et cetera. Which is cool, right? Because it's like, okay, I haven't studied economics formally in a long time. But you have dynamics here where there are commoditization dynamics.
+
+which we're gonna record an episode on. It's like you just have a chat window and what does it do? I mean, there's the models for the average everyday person. By and large, the models perform very similarly for a very wide number of tasks. And it's kind of cheap, relatively.
+
+you know, which we're going to record an episode on, you know, it's like, just have a chat window and like, what does it do? I mean, there's, you know, the models for the, for the average everyday person, you know, by and large, the models perform very similarly for a very wide number of tasks. Right. and it's kind of cheap relatively, you know, and so differentiation is difficult. are just a lot of interesting economic components of that.
+
+And so differentiation is difficult. There are just a lot of interesting economic elements of that. And then the huge portions of the industry are being heavily subsidized. So anyways, the reason I say that is I think that helps me have a more objective view on AI generally.
+
+And then the huge portions of the industry are being heavily subsidized, right? And so the...
+
+Studio (01:43:29.639)
+You know, one, so anyways, the reason I say that is I think that helps me have a more objective view on AI generally. You know, and sort of, yeah, just thinking about it objectively and understanding, okay, like commoditization, how is that gonna influence things? How is the subsidization gonna influence things? How are things going to change in the future, right? I mean, you actually brought up a great question the other day.
+
+And sort of, yeah, just thinking about it objectively and understanding, okay, like commoditization, how is that gonna influence things? How is the subsidization gonna influence things? How are things going to change in the future? I mean, you actually brought up a great question the other day. You said, you know, should I?
+
+You said, know, should I, is it smart of me to actually try to use some tools where it is more reflective of what I believe the future cost to be? Or just keep burning cursors, you know, venture money, you know? Which is a fascinating question. So I think, you know, I think that there are lots of inner rings and we don't know.
+
+Is it smart of me to actually try to use some tools where it is more reflective of what I believe the future cost to be? Or just keep burning cursors, know, venture money, you know? Which is a fascinating question. I think that...
+
+There are lots of interrings and we don't know about all the money that's being exchanged between these titans, know, the AI industry. But I think understanding the fundamentals of a system make it way less scary, right? Yeah, because one of the specific conversations we had was around, I can really become an expert at one of these tools. And my expertise be in the application layer. Like I can wield
+
+Studio (01:44:25.597)
+about all the money that's being exchanged between these titans of the AI industry. But I think understanding the fundamentals of a system make it way less scary, right?
+
+In-person participant 1 (01:44:52.051)
+Claude code or cursor, you know, better than whatever percentage of people. Good, like there's value there. But those specific, both tools are subsidized. Cursor probably at two levels, like one at the underlying model level and two at the application level, and then Claude at least at the underlying level. yeah, so the question was like at what point?
+
+than whatever percentage of people.
+
+Studio (01:45:14.163)
+Right,
+
+Yeah, so the question was like at what point is it niched so far down and so specific to the tool. Yep.
+
+Is it niched so far down and so specific to the tool where something happens and these tools don't make sense anymore? what time did I waste or expertise did I waste? And I think conclusion is like, it's not that big of a deal. it's not like, I'm so let's think about like Photoshop to be an absolute expert at Photoshop back in the day.
+
+I mean that was a lot of hours. lot of keyboard shortcuts, a lot of hours. And with this level of AI tooling, the tool specific part is not that same number of hours. But prompting and creating specs and all that, yeah, sure. I think you can get down into an expert Photoshop level of hours there. But the actual tool part is just not the same investment. So it's not as a big a deal as I, you know.
+
+So many hours. Yep.
+
+Studio (01:46:01.427)
+The tool specific part is not the same number of hours. But prompting and creating specs and all that, yeah, sure. You can get down to it.
+
+but the actual tool part is just not the same investment, so it's not as a big a deal. After thinking about more, that's kind of what I'm thinking. Yeah, I totally agree. And I think that leads right into my second point, which is just maintaining some level of curiosity. not in a, like, if you can regulate the FOMO, going in back to the craftsman point.
+
+After thinking about it more, that's kind what I concluded. Yeah, I totally agree. And I think that leads right into my second point, which is just maintaining some level of curiosity. not in a, if you can regulate the FOMO, going in back to the craftsman point from the inner ring, just being curious. And so what that plays out.
+
+from the inner ring, just being curious. And so what that plays out, the way that that plays out for me is building little side projects and other things. I I work at Versel and so I have the benefit of these really brilliant minds who are inventing all sorts of really cool new tooling, right? We launched a workflows.
+
+The way that that plays out for me is building little side projects and other things. I I work at Vercell and so I have the benefit of these really brilliant minds who are inventing all sorts of really cool new tooling, right? We launched a workflows framework that makes TypeScript functions durable so you can sort of orchestrate agents more easily just as part of a...
+
+Studio (01:47:04.879)
+A workflow's framework that turn, you know, makes TypeScript functions durable. So you can sort of orchestrate agents more easily just as part of a, you know, a TypeScript app, which is stuff like that. Super cool. There's a sandbox. mean, there are these different tools that really, you know, you can build all sorts of interesting AI type applications. And so I tinker with that stuff, you know, I'll come up with an idea and we've talked about this. Maybe we should show some of this stuff because it'd be fun. but it just demystifies it. And I think.
+
+you know, TypeScript app, is stuff like that's super cool. There's a sandbox. mean, there are these different tools that really, you you can build all sorts of interesting AI type applications. And so I tinker with that stuff. I'll come up with an idea. And we've talked about this. Maybe we should show some of this stuff because it'd be fun. But it just demystifies it. And I think that is something that I harken back.
+
+That is something that I harken back to my high school days where I had this amazing opportunity to take a car apart and put it back together with my dad. And he never used this language, but I've told many people the big takeaway for me was just not being afraid to take something apart. You know, cause you know, would, I would tell my dad.
+
+to my high school days where I had this amazing opportunity to take a car apart and put it back together with my dad. And he never used this language, but I've told many people the big takeaway for me was just not being afraid to take something apart. Right. You know, because I would tell my dad, well, I'm going to take this apart. And I'm like, what if I break it? Or what if I do it? I mean, I remember very distinctly I broke a bolt off in the engine block.
+
+Well, I'm gonna take this apart and I'm like, what if I break it or what if I do? I mean, I remember very distinctly, I broke a bolt off in the engine block, which is like a big, that's a huge pain, you know, cause it's a big cast piece of metal, you know, and you break a bolt off in it and it's like, it was a frame mount or something really important, you know, and my dad just said, there's tools to solve that problem. Like we'll get it out. Like it's, you know, and if we don't, then we'll drill it out and we'll just.
+
+In-person participant 1 (01:48:06.995)
+was like a big, that's a huge pain. Because it's a big cast piece of metal, and you break a bolt off of it. It was a frame mount or something really important. And my dad just said,
+
+there's tools to solve that problem. We'll get it out. And if we don't, then we'll drill it out and we'll just tap new threads in there. We'll figure that out. It's fine. I have that exact same experience with a very different form factor, and that's running software in production. OK, tell me more. OK. So one of my early jobs is we were running a B2B app on
+
+tap new threads in there, you know? It was just, we'll figure that out, like, it's fine.
+
+Studio (01:48:38.611)
+Mmm, okay, tell me more.
+
+In-person participant 1 (01:48:50.087)
+half on bare metal, half on VMware in a physical data center you could drive to. So I remember the first time I broke production. Yeah, personally. And we had big clients, speedy app, bad thing to do. And the pressure and the heat to like, I need to fix this and it's my fault.
+
+Okay. Okay. You broke production. Yes. So good. Yeah. And the pressure and the heat to fix this, and it's my fault. Whereas there's still pressure and heat when it goes on for other reasons, right?
+
+Whereas there's still pressure and heat when it goes wrong for other reasons, right? Because if you're, especially at that time, like things broke and like you didn't know why and you had to figure it out. So that was a similar thing where you get to a point where it breaks enough times and you realize like, this is fixable. It's, always fixable. And, and then have the confidence and skills and knowledge to go with like, and I'm the one that like, can fix this, we can fix this. yeah.
+
+things broke and you didn't know why you had to figure it out. So that was a similar thing where you get to a point where it breaks enough times and you realize this is fixable. It's always fixable. And then have the confidence and skills and knowledge to go with and I'm the one that, I can fix this, we can fix this. Totally. I love it.
+
+Studio (01:49:54.109)
+We're gonna have to cut this out in post, but I have to hop on a call. Should we, can we pause this?
+
+Okay, no worries. I don't think so, but that would be awesome. That'd be nice.
+
+Here, let me see if I can stop it, and then we can just hop back on. OK, hold on.
+
