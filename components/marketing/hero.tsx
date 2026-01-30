@@ -11,21 +11,21 @@ export function Hero() {
       <div className="relative z-10 mx-auto max-w-4xl text-center">
         <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2">
           <svg className="h-4 w-4 text-primary" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" />
+            <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
           </svg>
-          <span className="text-sm text-muted-foreground">AI-Powered Life Coaching</span>
+          <span className="text-sm text-muted-foreground">AI-Powered Dream Capture</span>
         </div>
 
         <h1 className="text-balance text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl lg:text-7xl">
-          Turn your dreams into{" "}
-          <span className="bg-gradient-to-r from-primary to-emerald-400 bg-clip-text text-transparent">
-            daily actions
+          Never lose a{" "}
+          <span className="bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">
+            dream again
           </span>
         </h1>
 
         <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg text-muted-foreground sm:text-xl">
-          Lobe is your personal AI life coach that breaks down your biggest goals into achievable daily micro-tasks.
-          Build momentum, stay accountable, and transform your life one day at a time.
+          Lobe is a screenless AI device that captures your dreams while you sleep and completes them before they fade.
+          Wake up to a full narrative of what you dreamed - ready to share over morning coffee.
         </p>
 
         <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
@@ -48,18 +48,18 @@ export function Hero() {
 
         <div className="mt-16 flex flex-col items-center gap-4 sm:flex-row sm:justify-center sm:gap-12">
           <div className="text-center">
-            <p className="text-3xl font-bold text-foreground">10K+</p>
-            <p className="text-sm text-muted-foreground">Dreams Started</p>
+            <p className="text-3xl font-bold text-foreground">66%</p>
+            <p className="text-sm text-muted-foreground">of Americans are sleep-deprived</p>
           </div>
           <div className="hidden h-8 w-px bg-border sm:block" />
           <div className="text-center">
-            <p className="text-3xl font-bold text-foreground">94%</p>
-            <p className="text-sm text-muted-foreground">Completion Rate</p>
+            <p className="text-3xl font-bold text-foreground">5 min</p>
+            <p className="text-sm text-muted-foreground">before dreams fade from memory</p>
           </div>
           <div className="hidden h-8 w-px bg-border sm:block" />
           <div className="text-center">
-            <p className="text-3xl font-bold text-foreground">4.9/5</p>
-            <p className="text-sm text-muted-foreground">User Rating</p>
+            <p className="text-3xl font-bold text-foreground">REM</p>
+            <p className="text-sm text-muted-foreground">sleep detection via biometrics</p>
           </div>
         </div>
       </div>

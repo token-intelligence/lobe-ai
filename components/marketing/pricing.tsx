@@ -2,43 +2,49 @@ import Link from "next/link"
 
 const plans = [
   {
-    name: "Free",
-    price: "$0",
-    description: "Perfect for trying out Lobe",
-    features: ["1 active dream", "Basic daily tasks", "Limited AI conversations", "Progress tracking"],
-    cta: "Get Started",
+    name: "Basic",
+    price: "$9",
+    period: "/month",
+    description: "Dream capture essentials",
+    features: [
+      "Dream completion",
+      "Audio playback",
+      "7-day dream history",
+      "Basic biometric sync",
+    ],
+    cta: "Join Waitlist",
     popular: false,
   },
   {
     name: "Pro",
-    price: "$12",
+    price: "$19",
     period: "/month",
-    description: "For serious goal achievers",
+    description: "For dream explorers",
     features: [
-      "Unlimited dreams",
-      "Advanced AI coaching",
-      "Unlimited conversations",
-      "Detailed analytics",
-      "Priority support",
-      "Custom milestones",
+      "Everything in Basic",
+      "AI dream interpretation",
+      "Unlimited dream history",
+      "Pattern recognition",
+      "Recurring dream alerts",
+      "Multi-device household",
     ],
-    cta: "Start Free Trial",
+    cta: "Join Waitlist",
     popular: true,
   },
   {
-    name: "Team",
+    name: "Plus",
     price: "$29",
     period: "/month",
-    description: "For teams and organizations",
+    description: "The complete experience",
     features: [
       "Everything in Pro",
-      "Team dashboards",
-      "Shared goals",
-      "Admin controls",
-      "API access",
-      "Dedicated support",
+      "Dream image generation",
+      "Dream video generation",
+      "Shareable dream content",
+      "Priority support",
+      "Early feature access",
     ],
-    cta: "Contact Sales",
+    cta: "Join Waitlist",
     popular: false,
   },
 ]
@@ -49,10 +55,10 @@ export function Pricing() {
       <div className="mx-auto max-w-7xl">
         <div className="text-center">
           <h2 className="text-balance text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Simple, transparent pricing
+            Device + Subscription
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-pretty text-lg text-muted-foreground">
-            Start free and upgrade when you're ready. No hidden fees.
+            Purchase your Lobe device, then choose a plan that fits your dream exploration needs.
           </p>
         </div>
 
@@ -104,6 +110,10 @@ export function Pricing() {
             </div>
           ))}
         </div>
+
+        <p className="mt-8 text-center text-sm text-muted-foreground">
+          Lobe device sold separately. Extended free trial required to build your dream pattern profile.
+        </p>
       </div>
     </section>
   )

@@ -2,27 +2,27 @@ export function HowItWorks() {
   const steps = [
     {
       step: "01",
-      title: "Share Your Dream",
+      title: "Place on Nightstand",
       description:
-        "Tell Lobe about your biggest goal. Whether it's starting a business, getting fit, or learning a new skill - we've got you covered.",
+        "Set up your Lobe device on your nightstand and connect it to your biometric tracker (Fitbit, Oura, Apple Watch, etc.).",
     },
     {
       step: "02",
-      title: "Get Your Roadmap",
+      title: "Sleep Naturally",
       description:
-        "Our AI analyzes your dream and creates a personalized roadmap with milestones, timelines, and the first steps to take.",
+        "Lobe monitors your biometrics and begins recording when you enter REM sleep - the phase when dreams occur.",
     },
     {
       step: "03",
-      title: "Complete Daily Tasks",
+      title: "Share Your Recall",
       description:
-        "Each day, you'll receive 3-5 micro-tasks tailored to your energy, schedule, and progress. Check them off and build momentum.",
+        "Wake up and tell Lobe what you remember of your dream. Even fragments help complete the picture.",
     },
     {
       step: "04",
-      title: "Transform Your Life",
+      title: "Listen to Your Dream",
       description:
-        "Watch as small daily actions compound into massive results. Track your progress and celebrate every milestone.",
+        "Lobe combines overnight recordings, biometric data, and your recall to play back your completed dream narrative.",
     },
   ]
 
@@ -34,7 +34,7 @@ export function HowItWorks() {
             How Lobe works
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-pretty text-lg text-muted-foreground">
-            Four simple steps to transform your dreams into reality
+            From nightstand to morning coffee - your dreams, captured and completed
           </p>
         </div>
 

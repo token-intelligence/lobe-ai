@@ -5,13 +5,13 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "Lobe AI - Your AI Life Coach",
+  title: "Lobe - AI Dream Capture Device",
   description:
-    "Transform your dreams into reality with personalized AI coaching. Break down your biggest goals into daily actionable steps.",
-  keywords: ["AI coach", "life coaching", "goal setting", "personal development", "productivity"],
+    "Never lose a dream again. Lobe is a screenless AI device that captures your dreams while you sleep and completes them before they fade.",
+  keywords: ["dream capture", "sleep technology", "AI device", "dream recording", "REM sleep", "biometrics"],
   openGraph: {
-    title: "Lobe AI - Your AI Life Coach",
-    description: "Transform your dreams into reality with personalized AI coaching.",
+    title: "Lobe - AI Dream Capture Device",
+    description: "Never lose a dream again. Capture and complete your dreams with AI.",
     type: "website",
   },
 }
