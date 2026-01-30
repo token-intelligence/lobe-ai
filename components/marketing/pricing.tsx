@@ -92,7 +92,7 @@ export function Pricing() {
               </ul>
 
               <Link
-                href="/auth/sign-up"
+                href="#waitlist"
                 className={`mt-8 block w-full rounded-lg px-4 py-3 text-center font-semibold transition-colors ${
                   plan.popular
                     ? "bg-primary text-primary-foreground hover:bg-primary/90"

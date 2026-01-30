@@ -30,16 +30,10 @@ export function Header() {
 
         <div className="hidden items-center gap-4 md:flex">
           <Link
-            href="/auth/login"
-            className="rounded-md px-4 py-2 text-sm text-muted-foreground transition-colors hover:text-foreground"
-          >
-            Log in
-          </Link>
-          <Link
-            href="/auth/sign-up"
+            href="#waitlist"
             className="rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
           >
-            Get Started
+            Join Waitlist
           </Link>
         </div>
 
@@ -86,16 +80,11 @@ export function Header() {
             </Link>
             <div className="flex flex-col gap-2 pt-4 border-t border-border">
               <Link
-                href="/auth/login"
-                className="rounded-md px-4 py-2 text-center text-sm text-muted-foreground transition-colors hover:text-foreground"
-              >
-                Log in
-              </Link>
-              <Link
-                href="/auth/sign-up"
+                href="#waitlist"
                 className="rounded-lg bg-primary px-4 py-2 text-center text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+                onClick={() => setIsMenuOpen(false)}
               >
-                Get Started
+                Join Waitlist
               </Link>
             </div>
           </nav>

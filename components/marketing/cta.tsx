@@ -2,7 +2,7 @@ import { WaitlistForm } from "./waitlist-form"
 
 export function CTA() {
   return (
-    <section className="bg-card py-24 px-4">
+    <section id="waitlist" className="bg-card py-24 px-4">
       <div className="mx-auto max-w-4xl text-center">
         <h2 className="text-balance text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
           Ready to transform your life?

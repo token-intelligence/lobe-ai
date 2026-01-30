@@ -14,24 +14,11 @@ export function WaitlistForm() {
     setIsLoading(true)
     setMessage(null)
 
-    try {
-      const res = await fetch("/api/waitlist", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
-      })
-      const result = await res.json()
-
-      if (result.success) {
-        setMessage({ type: "success", text: result.message })
-        setEmail("")
-      } else {
-        setMessage({ type: "error", text: result.message })
-      }
-    } catch {
-      setMessage({ type: "error", text: "Something went wrong. Please try again." })
-    }
-
+    // Simulate API call for preview
+    await new Promise((resolve) => setTimeout(resolve, 1000))
+    
+    setMessage({ type: "success", text: "You're on the list! We'll be in touch soon." })
+    setEmail("")
     setIsLoading(false)
   }
 
