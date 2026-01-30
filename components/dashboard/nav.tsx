@@ -1,8 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { useRouter } from "next/navigation"
-import { createClient } from "@/lib/supabase/client"
+import { signOut } from "@/app/actions/auth"
 import { Button } from "@/components/ui/button"
 import {
   DropdownMenu,
@@ -11,26 +10,20 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import { User } from "@supabase/supabase-js"
 import { LogOut, Settings, User as UserIcon } from "lucide-react"
-import { toast } from "sonner"
 
 interface DashboardNavProps {
-  user: User
+  user: {
+    email?: string | null
+    user_metadata?: {
+      full_name?: string
+      name?: string
+    }
+  }
 }
 
 export function DashboardNav({ user }: DashboardNavProps) {
-  const router = useRouter()
-
-  const handleSignOut = async () => {
-    const supabase = createClient()
-    await supabase.auth.signOut()
-    toast.success("Signed out successfully")
-    router.push("/")
-    router.refresh()
-  }
-
-  const displayName = user.user_metadata?.full_name || user.email?.split("@")[0] || "User"
+  const displayName = user.user_metadata?.full_name || user.user_metadata?.name || user.email?.split("@")[0] || "User"
   const initials = displayName
     .split(" ")
     .map((n: string) => n[0])
@@ -76,10 +69,14 @@ export function DashboardNav({ user }: DashboardNavProps) {
               </Link>
             </DropdownMenuItem>
             <DropdownMenuSeparator />
-            <DropdownMenuItem onClick={handleSignOut} className="cursor-pointer text-destructive focus:text-destructive">
-              <LogOut className="mr-2 h-4 w-4" />
-              Sign out
-            </DropdownMenuItem>
+            <form action={signOut}>
+              <DropdownMenuItem asChild>
+                <button type="submit" className="flex w-full cursor-pointer items-center text-destructive focus:text-destructive">
+                  <LogOut className="mr-2 h-4 w-4" />
+                  Sign out
+                </button>
+              </DropdownMenuItem>
+            </form>
           </DropdownMenuContent>
         </DropdownMenu>
       </div>

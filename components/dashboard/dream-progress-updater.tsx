@@ -1,8 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { useRouter } from "next/navigation"
-import { createClient } from "@/lib/supabase/client"
+import { updateDreamProgress } from "@/app/actions/dreams"
 import { Button } from "@/components/ui/button"
 import { Slider } from "@/components/ui/slider"
 import { toast } from "sonner"
@@ -16,30 +15,21 @@ interface DreamProgressUpdaterProps {
 export function DreamProgressUpdater({ dreamId, currentProgress }: DreamProgressUpdaterProps) {
   const [progress, setProgress] = useState(currentProgress)
   const [isLoading, setIsLoading] = useState(false)
-  const router = useRouter()
 
   const handleUpdate = async () => {
     if (progress === currentProgress) return
 
     setIsLoading(true)
-    const supabase = createClient()
+    const result = await updateDreamProgress(dreamId, progress)
 
-    const status = progress === 100 ? "completed" : "active"
-
-    const { error } = await supabase
-      .from("dreams")
-      .update({ progress, status })
-      .eq("id", dreamId)
-
-    if (error) {
-      toast.error("Failed to update progress")
+    if (result.error) {
+      toast.error(result.error)
       setIsLoading(false)
       return
     }
 
-    toast.success(progress === 100 ? "Congratulations! Dream completed!" : "Progress updated!")
+    toast.success(result.completed ? "Congratulations! Dream completed!" : "Progress updated!")
     setIsLoading(false)
-    router.refresh()
   }
 
   return (

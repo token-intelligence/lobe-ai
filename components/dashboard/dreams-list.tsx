@@ -5,8 +5,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
 import { Calendar, Target, Trash2 } from "lucide-react"
-import { createClient } from "@/lib/supabase/client"
-import { useRouter } from "next/navigation"
+import { deleteDream } from "@/app/actions/dreams"
 import { toast } from "sonner"
 import Link from "next/link"
 
@@ -25,19 +24,15 @@ interface DreamsListProps {
 }
 
 export function DreamsList({ dreams }: DreamsListProps) {
-  const router = useRouter()
-
   const handleDelete = async (dreamId: string) => {
-    const supabase = createClient()
-    const { error } = await supabase.from("dreams").delete().eq("id", dreamId)
+    const result = await deleteDream(dreamId)
 
-    if (error) {
-      toast.error("Failed to delete dream")
+    if (result.error) {
+      toast.error(result.error)
       return
     }
 
     toast.success("Dream deleted")
-    router.refresh()
   }
 
   if (dreams.length === 0) {
