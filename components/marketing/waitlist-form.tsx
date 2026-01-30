@@ -3,7 +3,6 @@
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { joinWaitlist } from "@/app/actions/waitlist"
 import { toast } from "sonner"
 import { Loader2 } from "lucide-react"
 
@@ -17,13 +16,22 @@ export function WaitlistForm() {
 
     setIsLoading(true)
     
-    const result = await joinWaitlist(email)
-    
-    if (result.success) {
-      toast.success(result.message)
-      setEmail("")
-    } else {
-      toast.error(result.message)
+    try {
+      const res = await fetch("/api/waitlist", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
+      })
+      const result = await res.json()
+      
+      if (result.success) {
+        toast.success(result.message)
+        setEmail("")
+      } else {
+        toast.error(result.message)
+      }
+    } catch {
+      toast.error("Something went wrong. Please try again.")
     }
 
     setIsLoading(false)
