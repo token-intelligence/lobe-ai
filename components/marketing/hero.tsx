@@ -1,7 +1,3 @@
-"use client"
-
-import { Button } from "@/components/ui/button"
-import { ArrowRight, Sparkles } from "lucide-react"
 import Link from "next/link"
 
 export function Hero() {
@@ -14,7 +10,9 @@ export function Hero() {
 
       <div className="relative z-10 mx-auto max-w-4xl text-center">
         <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2">
-          <Sparkles className="h-4 w-4 text-primary" />
+          <svg className="h-4 w-4 text-primary" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" />
+          </svg>
           <span className="text-sm text-muted-foreground">AI-Powered Life Coaching</span>
         </div>
 
@@ -31,16 +29,20 @@ export function Hero() {
         </p>
 
         <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-          <Link href="/auth/sign-up">
-            <Button size="lg" className="gap-2">
-              Start Your Journey
-              <ArrowRight className="h-4 w-4" />
-            </Button>
+          <Link
+            href="/auth/sign-up"
+            className="inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
+          >
+            Start Your Journey
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+            </svg>
           </Link>
-          <Link href="#how-it-works">
-            <Button variant="outline" size="lg">
-              See How It Works
-            </Button>
+          <Link
+            href="#how-it-works"
+            className="rounded-lg border border-border px-6 py-3 font-semibold text-foreground transition-colors hover:bg-card"
+          >
+            See How It Works
           </Link>
         </div>
 

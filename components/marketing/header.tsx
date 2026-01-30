@@ -1,9 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
 import { useState } from "react"
-import { Menu, X } from "lucide-react"
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -31,18 +29,34 @@ export function Header() {
         </nav>
 
         <div className="hidden items-center gap-4 md:flex">
-          <Link href="/auth/login">
-            <Button variant="ghost" size="sm">
-              Log in
-            </Button>
+          <Link
+            href="/auth/login"
+            className="rounded-md px-4 py-2 text-sm text-muted-foreground transition-colors hover:text-foreground"
+          >
+            Log in
           </Link>
-          <Link href="/auth/sign-up">
-            <Button size="sm">Get Started</Button>
+          <Link
+            href="/auth/sign-up"
+            className="rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+          >
+            Get Started
           </Link>
         </div>
 
-        <button className="md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)} aria-label="Toggle menu">
-          {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+        <button
+          className="md:hidden"
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
+          aria-label="Toggle menu"
+        >
+          {isMenuOpen ? (
+            <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          ) : (
+            <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          )}
         </button>
       </div>
 
@@ -70,14 +84,18 @@ export function Header() {
             >
               Pricing
             </Link>
-            <div className="flex flex-col gap-2 pt-4">
-              <Link href="/auth/login">
-                <Button variant="ghost" className="w-full">
-                  Log in
-                </Button>
+            <div className="flex flex-col gap-2 pt-4 border-t border-border">
+              <Link
+                href="/auth/login"
+                className="rounded-md px-4 py-2 text-center text-sm text-muted-foreground transition-colors hover:text-foreground"
+              >
+                Log in
               </Link>
-              <Link href="/auth/sign-up">
-                <Button className="w-full">Get Started</Button>
+              <Link
+                href="/auth/sign-up"
+                className="rounded-lg bg-primary px-4 py-2 text-center text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+              >
+                Get Started
               </Link>
             </div>
           </nav>
