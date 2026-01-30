@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { createClient } from "@/lib/supabase/client"
+import { joinWaitlist } from "@/app/actions/waitlist"
 import { toast } from "sonner"
 import { Loader2 } from "lucide-react"
 
@@ -16,19 +16,14 @@ export function WaitlistForm() {
     if (!email) return
 
     setIsLoading(true)
-    const supabase = createClient()
-
-    const { error } = await supabase.from("waitlist").insert({ email })
-
-    if (error) {
-      if (error.code === "23505") {
-        toast.error("You're already on the waitlist!")
-      } else {
-        toast.error("Something went wrong. Please try again.")
-      }
-    } else {
-      toast.success("You're on the list! We'll be in touch soon.")
+    
+    const result = await joinWaitlist(email)
+    
+    if (result.success) {
+      toast.success(result.message)
       setEmail("")
+    } else {
+      toast.error(result.message)
     }
 
     setIsLoading(false)
